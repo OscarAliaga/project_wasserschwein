@@ -1,0 +1,11 @@
+📌 Guide: Basal Exercises 6
+Unit: Unit 1 – Multiplication
+Chapter: Multiplication by 2 digits (strategies and algorithm)
+
+🔹 Statements and activities:
+- Multiplications using multibase blocks
+- Application of distributive property
+- Estimation and verification with a calculator
+
+💡 Expected evaluation:
+Mastery of techniques for multiplying two digits, strategic thinking, and result validation.

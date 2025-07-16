@@ -1,0 +1,15 @@
+📂 Comparación de números enteros
+
+Explicación:
+Para comparar números negativos, se considera su ubicación en la recta numérica. Entre dos negativos, el que está más a la derecha es mayor.
+
+Ejemplo:
+-2 > -5 porque está más cerca de 0
+
+Actividad:
+a) Usa >, < o = para comparar:
+1) -4 __ -7  
+2) -1 __ 2  
+3) -3 __ -3
+
+b) Justifica cada respuesta usando una recta numérica

@@ -1,0 +1,18 @@
+📂 Unidades de longitud
+
+Explicación:
+Las unidades básicas de longitud en el sistema métrico son:
+- 1 metro = 100 centímetros
+- 1 centímetro = 10 milímetros
+- 1 kilómetro = 1.000 metros
+
+Los múltiplos y submúltiplos permiten medir desde objetos pequeños (como un clip) hasta distancias largas (como una carretera).
+
+Ejemplo:
+Convertir 4,5 metros a centímetros → 4,5 × 100 = 450 cm
+
+Actividad sugerida:
+Convierte las siguientes medidas a la unidad indicada:
+a) 2,4 m = ___ cm
+b) 850 cm = ___ m
+c) 0,3 km = ___ m

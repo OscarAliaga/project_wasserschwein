@@ -1,0 +1,19 @@
+Chapter 1 - Reasoning Exercise
+
+Problem:
+Martina read that the population of three districts is as follows:
+- District A: 2,504,308 inhabitants
+- District B: 3,402,150 inhabitants
+- District C: 3,402,105 inhabitants
+
+Question:
+Which district is the most populous? Which is the least populous?
+
+Step-by-step resolution:
+1. Look at the millions: B and C have 3 million, A only has 2 million → A is the least populous.
+2. Compare B (3,402,150) with C (3,402,105):
+   - Both have 3,402,1__ → compare the last digits: 50 vs 05
+   - 150 > 105 → B is the most populous.
+
+Final answer:
+District B is the most populous and District A is the least populous.

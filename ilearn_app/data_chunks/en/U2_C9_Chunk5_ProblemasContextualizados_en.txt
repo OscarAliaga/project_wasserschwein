@@ -1,0 +1,11 @@
+📂 Contextualized Problems
+
+Scenarios:
+1. A bar graph shows the number of bicycles sold per month. In which month were the most bicycles sold? What was the difference with the following month?
+2. A table shows weekly school attendance. In which week was there the highest attendance?
+3. A line graph shows the temperature in July. What trend do you observe?
+
+Activity:
+a) Create a graph based on a survey you conduct (favorite food, sport, etc.)
+b) Exchange your graph with a classmate and interpret theirs
+c) Write 2 conclusions you can draw from the observed data

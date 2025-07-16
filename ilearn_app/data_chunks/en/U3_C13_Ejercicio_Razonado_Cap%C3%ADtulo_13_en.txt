@@ -1,0 +1,11 @@
+Reasoned Exercise_Chapter_13
+
+Problem:
+Ana's grades: 6.0 - 6.2 - 5.8. What is her average?
+
+Step-by-step solution:
+1. Add: 6.0 + 6.2 + 5.8 = 18.0
+2. Divide by 3: 18 ÷ 3 = 6.0
+
+Final answer:
+Ana's average is 6.0.

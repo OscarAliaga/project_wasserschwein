@@ -1,0 +1,4 @@
+Exercise_2_Chapter_14
+Perform a 90° rotation in the plane on a square.
+a) Did the shape or size of the figure change?
+b) What transformation allows to preserve congruence?

@@ -1,0 +1,5 @@
+Exercise_1_Chapter_11
+Imagine you roll a die. What is the probability of getting a number greater than 4?
+a) List the possible outcomes.
+b) Indicate how many outcomes meet the condition.
+c) Write the probability as a fraction.

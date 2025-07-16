@@ -1,0 +1,14 @@
+Exercise_2_Chapter_5
+
+Title: Division with Zero in the Quotient
+
+A factory packed 804 pencils into boxes, placing 6 pencils per box.
+
+a) How many complete boxes were filled?
+b) How many pencils are left over?
+c) Explain why a zero appears in the tens place in the quotient.
+
+Perform the calculation step by step using the division algorithm.
+
+🧠 Objective: Understand the use of zero in the quotient in divisions by 1 digit.
+📚 Content: Division by one digit with zero in the quotient.

@@ -1,0 +1,17 @@
+📂 Cálculo de la media aritmética
+
+Explicación:
+La media se calcula sumando todos los valores y dividiendo por la cantidad de elementos.
+
+Fórmula:
+Media = (suma de los datos) / (cantidad de datos)
+
+Ejemplo:
+Notas: 5, 6, 4  
+Media = (5 + 6 + 4) / 3 = 15 / 3 = 5
+
+Actividad:
+a) Calcula la media de los siguientes conjuntos:
+1) 2, 3, 5, 6  
+2) 10, 12, 8, 14, 6  
+b) Interpreta el resultado en cada caso

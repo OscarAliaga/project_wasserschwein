@@ -1,0 +1,15 @@
+📂 Comparison of integers
+
+Explanation:
+To compare negative numbers, their position on the number line is considered. Between two negatives, the one on the right is greater.
+
+Example:
+-2 > -5 because it is closer to 0
+
+Activity:
+a) Use >, <, or = to compare:
+1) -4 __ -7
+2) -1 __ 2
+3) -3 __ -3
+
+b) Justify each answer using a number line.

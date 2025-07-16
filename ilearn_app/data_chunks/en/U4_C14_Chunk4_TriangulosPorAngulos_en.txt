@@ -1,0 +1,12 @@
+📂 Classification of triangles by their angles
+
+Explanation:
+According to their internal angles, triangles can be:
+- Acute-angled: three acute angles
+- Right-angled: one right angle
+- Obtuse-angled: one obtuse angle
+
+Activity:
+a) Draw examples of each type
+b) Use the protractor to verify the angles
+c) Classify the following triangles according to their measurements: 60°, 60°, 60° / 30°, 60°, 90° / 120°, 30°, 30°

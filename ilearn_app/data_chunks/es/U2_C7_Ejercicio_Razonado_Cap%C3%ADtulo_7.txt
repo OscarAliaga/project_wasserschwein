@@ -1,0 +1,13 @@
+Ejercicio_Razonado_Capítulo_7
+
+Problema:
+La secuencia es: 7, 14, 21, ___, ___
+
+Resolución paso a paso:
+1. Identificamos el patrón: se suma 7.
+2. Continuamos la secuencia:
+   21 + 7 = 28
+   28 + 7 = 35
+
+Respuesta final:
+Los siguientes números son 28 y 35.

@@ -1,0 +1,13 @@
+📌 Guía: Nociones Básicas de Geometría del Espacio
+Unidad: Unidad 3
+Capítulo: Capítulo 10 – Paralelismo y perpendicularidad en figuras y cuerpos
+
+🔹 Contenidos:
+- Representación y notación de puntos, rectas y planos
+- Teoremas que determinan un plano a partir de puntos y rectas
+- Posiciones relativas entre rectas y planos: paralelas, secantes, contenidas
+- Ángulo entre rectas, recta y plano, planos paralelos y secantes
+- Aplicación del Teorema de Tales en el espacio
+
+💡 Evaluación esperada:
+Comprensión de conceptos espaciales y relaciones geométricas 3D, capacidad de resolver problemas aplicados y justificar teóricamente las posiciones relativas en el espacio.

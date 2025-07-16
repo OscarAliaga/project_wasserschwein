@@ -1,0 +1,10 @@
+Ejercicio_Razonado_Capítulo_4
+
+Problema:
+Convertir 2,5 km a metros.
+
+Resolución paso a paso:
+1 km = 1000 m → 2,5 km = 2,5 × 1000 = 2.500 metros
+
+Respuesta final:
+2,5 km equivalen a 2.500 metros.

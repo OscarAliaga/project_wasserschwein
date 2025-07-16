@@ -1,0 +1,4 @@
+Ejercicio_2_Capítulo_17
+Dibuja una figura irregular compuesta por un rectángulo y un triángulo.
+a) Calcula su área dividiéndola en figuras conocidas.
+b) Explica tu procedimiento paso a paso.

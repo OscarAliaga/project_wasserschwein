@@ -1,0 +1,17 @@
+📂 Calculation of the volume of right prisms
+
+Explanation:
+To calculate the volume of a right prism, the formula is used:
+
+Volume = length × width × height
+
+Example:
+A box measures 5 cm in length, 3 cm in width, and 2 cm in height  
+Volume = 5 × 3 × 2 = 30 cm³
+
+Activity:
+a) Calculate the volume of a prism with:
+1) 4 cm × 2 cm × 5 cm  
+2) 6 cm × 3 cm × 1 cm
+
+b) Write down the formula used and verify the result with a graphical representation.

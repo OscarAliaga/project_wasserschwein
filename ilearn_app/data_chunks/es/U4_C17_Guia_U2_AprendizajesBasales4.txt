@@ -1,0 +1,16 @@
+📌 Guía: Unidad 2 – Aprendizajes Basales 4
+Unidad: Unidad 2 – Congruencia y geometría
+Capítulo: Traslación y congruencia de triángulos
+
+🔹 OA trabajados:
+- OA18: Comprender congruencia a través de traslación, reflexión y rotación
+- OA_f: Comunicar razonamientos matemáticos
+- OA_e: Comprobar propiedades geométricas
+
+🔹 Actividades:
+- Traslación de triángulo en cuadrícula
+- Comparación de medidas de lados y ángulos antes y después de la transformación
+- Argumentación sobre congruencia
+
+💡 Evaluación esperada:
+Aplicación precisa de traslaciones, reconocimiento de invariancia de figuras congruentes y habilidad de explicar el concepto con ejemplos.

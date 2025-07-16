@@ -1,0 +1,17 @@
+📂 Frequency Tables
+
+Explanation:
+A frequency table allows you to organize collected data, showing how many times each value occurs.
+
+Example:
+Number of students by favorite color:
+| Color  | Frequency |
+|--------|------------|
+| Red    | 6          |
+| Blue   | 9          |
+| Green  | 5          |
+
+Activity:
+a) Conduct a survey about favorite fruit with 10 classmates
+b) Organize the results in a frequency table
+c) What is the most popular fruit? What is the least chosen?

@@ -1,0 +1,15 @@
+📌 Guía: Unidad 2 – Longitud
+Unidad: Unidad 2
+Capítulo: Capítulo 4 – Longitud (m, cm, mm, km + conversiones)
+
+🔹 OA trabajados:
+- OA19: Medir longitudes con unidades estándar (m, cm, mm)
+- OA_f: Comunicar razonamientos matemáticos
+
+🔹 Actividades:
+- Clasificación de objetos por unidad de medida más adecuada
+- Justificación del uso de unidades según contexto
+- Discusión sobre figuras planas en el mundo real
+
+💡 Evaluación esperada:
+Capacidad para elegir y justificar unidades de medida apropiadas y razonar sobre medidas en objetos tridimensionales.

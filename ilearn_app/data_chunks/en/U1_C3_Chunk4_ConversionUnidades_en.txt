@@ -1,0 +1,16 @@
+📂 Unit Conversion
+
+Explanation:
+To convert from one unit to another, you multiply or divide by 10, 100, or 1,000 according to the relationship:
+- m to cm: × 100
+- cm to m: ÷ 100
+- m to km: ÷ 1,000
+
+Example:
+Convert 7,200 mm to meters → 7,200 ÷ 1,000 = 7.2 m
+
+Activity:
+Perform the conversions:
+a) 350 cm to m
+b) 4.2 m to mm
+c) 0.75 km to m

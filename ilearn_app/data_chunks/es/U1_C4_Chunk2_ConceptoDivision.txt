@@ -1,0 +1,12 @@
+📂 Concepto de división
+
+Explicación:
+Dividir es repartir en partes iguales o agrupar elementos. La división tiene cuatro elementos:
+- Dividendo, divisor, cociente, y residuo
+
+Ejemplo:
+Si se reparten 25 galletas entre 5 niños:
+25 ÷ 5 = 5 → cada niño recibe 5 galletas
+
+Actividad sugerida:
+Reparte 36 lápices en 6 estuches. ¿Cuántos lápices van en cada uno?

@@ -1,0 +1,14 @@
+Exercise_2_Chapter_4
+
+Title: Problems with length units
+
+Description: Solve the following problems applying what you have learned about length measurements.
+
+1. Sofia ran 2.3 km in the morning and 1.7 km in the afternoon. How many meters did she run in total during the day?
+2. A ribbon measures 350 centimeters. If it is cut into pieces of 70 centimeters each, how many equal pieces can be made?
+3. Juan needs to join two boards. One measures 125 cm and the other 1.45 m. What is the total length of the joined board, in meters?
+
+Analysis question:
+When is it convenient to use meters instead of centimeters or millimeters? Explain in your own words.
+
+Tip: Before solving, convert all lengths to the same unit to make it easier to operate.

@@ -1,0 +1,7 @@
+Ejercicio_2_Capítulo_10
+Observa las siguientes figuras geométricas:
+- Un rectángulo
+- Un triángulo equilátero
+- Un rombo
+a) ¿Qué pares de lados son paralelos en cada figura?
+b) ¿Qué figura tiene lados perpendiculares?

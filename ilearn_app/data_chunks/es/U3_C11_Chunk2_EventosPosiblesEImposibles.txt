@@ -1,0 +1,19 @@
+📂 Eventos posibles e imposibles
+
+Explicación:
+- Un evento imposible no puede ocurrir (probabilidad = 0)  
+- Un evento posible puede ocurrir, aunque no con seguridad  
+- Un evento seguro siempre ocurre (probabilidad = 1)
+
+Ejemplos:
+- Sacar un número mayor que 6 de un dado: imposible  
+- Sacar una figura roja de una bolsa con varias figuras de colores: posible  
+- El sol saldrá mañana: seguro
+
+Actividad:
+a) Clasifica los siguientes eventos:  
+1) Lanzar un dado y obtener un número  
+2) Que salga el número 9 en un dado  
+3) Que un lápiz caiga hacia abajo
+
+Justifica tus respuestas.

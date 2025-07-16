@@ -1,0 +1,14 @@
+📌 Exercise #1
+Unit: Unit 1 - Problems and numbers
+Chapter: Combined operations (use of parentheses, order of operations)
+Guide: No. 5 (May 11-15)
+Type: Resolution of combined exercises
+
+🔹 Statement:
+A person has $15,678 saved and then their account shows $20,789. How much money was deposited?
+
+✅ Correct answer:
+$20,789 - $15,678 = $5,111
+
+💡 Expected explanation:
+It is expected that the student correctly applies subtraction to find the difference between the amounts.

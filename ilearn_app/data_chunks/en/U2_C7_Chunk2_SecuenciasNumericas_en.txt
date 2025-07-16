@@ -1,0 +1,16 @@
+📂 Increasing and decreasing number sequences
+
+Explanation:
+A numerical pattern is a sequence of numbers organized according to a rule. It can be:
+- Increasing: 2, 4, 6, 8... (adding 2)
+- Decreasing: 100, 90, 80... (subtracting 10)
+
+Example:
+Sequence: 5, 10, 15, 20  
+Rule: add 5
+
+Activity:
+a) Complete the sequences:
+1) 3, 6, 9, ___, ___  
+2) 100, 90, ___, ___  
+b) Write the formation rule of each sequence

@@ -1,0 +1,18 @@
+📂 Jerarquía de operaciones
+
+Explicación:
+El orden correcto para resolver operaciones es:
+1. Paréntesis  
+2. Multiplicación y división (de izquierda a derecha)  
+3. Suma y resta (de izquierda a derecha)
+
+Ejemplo:
+5 + 3 × 2 = 5 + 6 = 11  
+(5 + 3) × 2 = 8 × 2 = 16
+
+Actividad:
+Resuelve aplicando jerarquía:
+a) 4 + 6 × 2 =  
+b) (4 + 6) × 2 =  
+c) 18 ÷ 3 + 2 =  
+d) 18 ÷ (3 + 2) =

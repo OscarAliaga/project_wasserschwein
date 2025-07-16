@@ -1,0 +1,27 @@
+📘 Chunk 1: Exercises from the Teacher's Guide (Chapter 1, Unit 1)
+Purpose: Understand the place value of numbers up to the millions and practice their comparison and decomposition.
+
+1. Reading and writing large numbers:
+- Read out loud the number: 5,263,084.
+- Write it out in words.
+- Which digit is in the hundred thousands place?
+- What is the place value of the digit 6 in 5,263,084?
+
+2. Additive and canonical decomposition:
+- Decompose the number 8,430,726 additively.
+- Then write it in its canonical form.
+
+3. Comparison and ordering:
+- Arrange the following numbers from smallest to largest: 2,537,019 - 3,507,219 - 2,999,321 - 1,432,765.
+- Use >, <, or = to compare:
+  a) 7,805,231 ___ 7,815,320
+  b) 6,430,111 ___ 6,430,110
+
+4. Relative and absolute value:
+- What is the absolute value of the digit 9 in 2,491,372?
+- And its relative value?
+
+5. Applied exercise:
+- The population of three districts is as follows:
+  A: 3,245,219 - B: 2,984,023 - C: 3,245,218
+  Which one has more inhabitants? Which ones have almost the same population?

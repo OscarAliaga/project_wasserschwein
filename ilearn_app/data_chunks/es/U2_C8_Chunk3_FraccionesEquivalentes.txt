@@ -1,0 +1,15 @@
+📂 Fracciones equivalentes
+
+Explicación:
+Dos fracciones son equivalentes si representan la misma parte del todo, aunque sus números sean distintos.
+
+Ejemplo:
+2/4 = 1/2 porque 2×1 = 1×2
+
+Método para obtener fracciones equivalentes:
+- Multiplicar o dividir numerador y denominador por el mismo número
+
+Actividad:
+a) Encuentra 2 fracciones equivalentes a 3/5  
+b) ¿Son equivalentes 4/6 y 2/3? Justifica  
+c) Dibuja y representa gráficamente 1/2, 2/4, 3/6

@@ -1,0 +1,11 @@
+Ejercicio_Razonado_Capítulo_3
+
+Problema:
+Cada cinta mide 45 cm. Si Sofía usó 3 cintas, ¿cuántos centímetros utilizó en total?
+
+Resolución paso a paso:
+1. Multiplicamos: 45 × 3 = 135 cm
+2. Verificamos con suma repetida: 45 + 45 + 45 = 135
+
+Respuesta final:
+Sofía usó 135 cm de cinta.

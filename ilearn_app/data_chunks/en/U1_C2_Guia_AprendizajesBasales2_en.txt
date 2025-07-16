@@ -1,0 +1,12 @@
+📌 Guide: Basic Learnings 2
+Unit: Unit 1 - Multiplication
+Chapter: Multiplication by 2 digits (strategies and algorithm)
+
+🔹 Statements and activities:
+- Estimate products using rounding
+- Apply distributive property
+- Multiplication by base 10 blocks
+- Verify calculations with a calculator
+
+💡 Expected assessment:
+Use of decomposition to facilitate calculation, reasoned estimation, and application of the algorithm.

@@ -1,0 +1,19 @@
+📂 Division Algorithm with Zeros in the Quotient
+
+Explanation:
+When dividing a number, if a digit in the quotient should be zero, it should not be omitted. The 0 maintains the correct positional value.
+
+Example:
+607 ÷ 6:
+- 6 fits into 6 → 1
+- 6 does not fit into 0 → write 0
+- 6 fits into 7 → 1
+→ Result: 101
+
+Activity:
+Solve using the algorithm and write all the steps:
+a) 403 ÷ 4
+b) 709 ÷ 7
+c) 802 ÷ 8
+
+Discuss with a partner: What would happen if you do not include the 0 in the quotient?

@@ -1,0 +1,18 @@
+📂 Order of Operations
+
+Explanation:
+The correct order to solve operations is:
+1. Parentheses
+2. Multiplication and division (from left to right)
+3. Addition and subtraction (from left to right)
+
+Example:
+5 + 3 × 2 = 5 + 6 = 11
+(5 + 3) × 2 = 8 × 2 = 16
+
+Activity:
+Solve applying the order of operations:
+a) 4 + 6 × 2 =  
+b) (4 + 6) × 2 =  
+c) 18 ÷ 3 + 2 =  
+d) 18 ÷ (3 + 2) =

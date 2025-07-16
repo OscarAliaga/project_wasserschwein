@@ -1,0 +1,9 @@
+📘 Unidad 2 – Capítulo 9: Análisis de datos
+Eje temático: Datos y Probabilidades
+
+Objetivos de Aprendizaje:
+- OA 15: Recopilar, organizar y representar datos en tablas y gráficos
+- OA 16: Leer e interpretar información de distintos tipos de gráficos
+
+Descripción general:
+Este capítulo busca que los estudiantes comprendan cómo recolectar y organizar datos, y cómo representarlos en tablas, gráficos de barras y gráficos de líneas. Se fomenta la capacidad de analizar información visual y hacer inferencias a partir de ella. También se introduce el concepto de frecuencia.

@@ -1,0 +1,7 @@
+Exercise_1_Chapter_9
+Look at the following data table about favorite fruits of a class:
+- Apples: 12 students
+- Bananas: 8 students
+- Oranges: 5 students
+a) Which fruit is the most popular?
+b) What percentage does each fruit represent?

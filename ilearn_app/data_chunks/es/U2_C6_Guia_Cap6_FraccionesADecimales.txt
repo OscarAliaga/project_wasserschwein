@@ -1,0 +1,14 @@
+📌 Guía: Ejercicios Basales Unidad 3 – Fracciones a Decimales
+Unidad: Unidad 3
+Capítulo: Capítulo 6 – Números decimales (relación con fracciones, operaciones básicas)
+
+🔹 OA trabajados:
+- OA10: Determinar el decimal correspondiente a fracciones con denominador 2, 4, 5 y 10
+
+🔹 Actividades:
+- Representación de fracciones en cuadrículas
+- Conversión a forma decimal y comparación con su fracción
+- Uso de recta numérica para verificar correspondencia
+
+💡 Evaluación esperada:
+Conversión correcta de fracciones comunes a decimales y representación precisa en cuadrícula y recta numérica.

@@ -1,0 +1,12 @@
+📘 Unidad 1 – Capítulo 1: Números Grandes
+Eje temático: Números y Operaciones
+
+Objetivos de Aprendizaje:
+- OA 1: Representar y describir números naturales de hasta más de 6 dígitos y menores que 1.000 millones:
+  • Identificar el valor posicional de los dígitos
+  • Componer y descomponer números
+  • Comparar y ordenar números
+  • Relacionar números con contextos reales
+
+Descripción general del capítulo:
+En este capítulo, los estudiantes aprenden a representar, componer y descomponer números naturales hasta 9 dígitos (999.999.999). Se trabaja el valor posicional de las cifras y se ejercita la comparación y ordenación de números. Se contextualiza con situaciones cotidianas, como población de países, distancias, o producción industrial.

@@ -1,0 +1,11 @@
+📌 Guide No. 6 - Chance and Probability
+Unit: Unit 4
+Chapter: Chapter 11 - Probabilities (possible, impossible events)
+
+🔹 Contents:
+- Tossing objects and recording frequencies
+- Classifying events as possible or impossible
+- Comparing the probability of opposite events (heads vs tails)
+
+💡 Expected Assessment:
+Apply basic concepts of chance, identify opposite events, and recognize variability in random games.

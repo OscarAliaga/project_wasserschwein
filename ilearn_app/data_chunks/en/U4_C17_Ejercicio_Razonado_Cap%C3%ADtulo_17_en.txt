@@ -1,0 +1,11 @@
+Exercise_Reasoned_Chapter_17
+
+Problem:
+Calculate the area of a triangle with a base of 10 cm and a height of 6 cm.
+
+Step-by-step solution:
+1. Formula: (base × height) ÷ 2
+2. Calculation: (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm²
+
+Final answer:
+The area is 30 cm².

@@ -1,0 +1,14 @@
+📂 Concepto de ángulo y tipos
+
+Explicación:
+Un ángulo es la abertura entre dos rayos que parten de un punto común (vértice).
+
+Tipos de ángulos:
+- Agudo: menor a 90°  
+- Recto: 90° exactos  
+- Obtuso: mayor a 90° y menor a 180°
+
+Actividad:
+a) Dibuja un ángulo de cada tipo  
+b) Usa un transportador para medir ángulos en figuras del entorno  
+c) Clasifica los siguientes ángulos: 45°, 90°, 135°

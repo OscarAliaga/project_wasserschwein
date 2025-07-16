@@ -1,0 +1,10 @@
+Ejercicio_Razonado_Capítulo_15
+
+Problema:
+Resuelve la ecuación: x – 5 = 12
+
+Resolución paso a paso:
+1. Sumamos 5 a ambos lados: x = 12 + 5 = 17
+
+Respuesta final:
+x = 17

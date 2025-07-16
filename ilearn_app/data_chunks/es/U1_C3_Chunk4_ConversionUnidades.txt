@@ -1,0 +1,16 @@
+📂 Conversión entre unidades
+
+Explicación:
+Para convertir de una unidad a otra se multiplica o divide por 10, 100 o 1.000 según la relación:
+- m a cm: × 100
+- cm a m: ÷ 100
+- m a km: ÷ 1.000
+
+Ejemplo:
+Convertir 7.200 mm a metros → 7.200 ÷ 1.000 = 7,2 m
+
+Actividad:
+Realiza las conversiones:
+a) 350 cm a m
+b) 4,2 m a mm
+c) 0,75 km a m

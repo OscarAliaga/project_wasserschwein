@@ -1,0 +1,4 @@
+Exercise_1_Chapter_14
+Draw an equilateral triangle and perform a horizontal reflection.
+a) Is the reflected figure congruent?
+b) Justify your answer with a comparison of sides and angles.

@@ -1,0 +1,24 @@
+Capítulo 2 – Chunk 2 de 2: Multiplicación por 2 dígitos (algoritmo y resolución de problemas)
+
+🧠 Actividad 4: Aplicación del algoritmo
+4a) Resuelve 38 × 57 usando el algoritmo estándar.
+4b) Calcula 25 × 70 siguiendo la idea de Sofía (multiplica por 0 y luego por 7).
+4c) Ahora, intenta con la estrategia de Juan (multiplica por 7 y añade el cero).
+
+🧮 Actividad 5: Problemas de dos etapas
+5a) Juan hace 45 decoraciones, cada una requiere 24 cm de cinta. ¿Cuánta cinta necesita?
+→ Multiplica y explica el proceso.
+
+5b) Compra 20 lápices a $98 cada uno. ¿Cuánto paga?
+→ Estima primero, luego usa el algoritmo.
+
+🔁 Actividad 6: Comparación de procedimientos
+6a) Compara los resultados de 35 × 70 y 70 × 35. ¿Son iguales?
+→ Argumenta con la propiedad conmutativa.
+
+📘 Reforzamos:
+• Dominio del algoritmo tradicional
+• Análisis de errores comunes (como alineación incorrecta)
+• Aplicación de la multiplicación en contextos reales
+
+🧑‍🏫 Sugerencia docente: Evaluar comprensión a través de actividades orales antes de resolver ejercicios escritos.

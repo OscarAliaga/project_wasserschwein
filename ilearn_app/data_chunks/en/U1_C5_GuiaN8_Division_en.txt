@@ -1,0 +1,14 @@
+📌 Exercise #1
+Unit: Unit 1 – Problems and numbers
+Chapter: Division by 1 digit, quotient with zeros
+Guide: No. 8 (July 13–17)
+Type: Symbolic and contextual resolution
+
+🔹 Statement:
+Teacher Ana has 184 pencils that she must distribute equally among 6 groups. How many pencils does each group receive? Will there be any pencils left over?
+
+✅ Correct answer:
+184 ÷ 6 = 30 with a remainder of 4
+
+💡 Expected explanation:
+The student should apply integer division with interpretation of the quotient and remainder, linking it to the real context.

@@ -1,0 +1,8 @@
+📘 Unidad 3 – Capítulo 13: Media o promedio
+Eje temático: Datos y Probabilidades
+
+Objetivos de Aprendizaje:
+- OA 18: Calcular y utilizar la media aritmética en contextos significativos
+
+Descripción general:
+Este capítulo introduce la noción de media o promedio como una medida representativa de un conjunto de datos. Los estudiantes aprenderán a calcularla sumando todos los datos y dividiendo por la cantidad de elementos. Se aplicará en situaciones cotidianas como notas, distancias o conteos, con énfasis en la interpretación del resultado.

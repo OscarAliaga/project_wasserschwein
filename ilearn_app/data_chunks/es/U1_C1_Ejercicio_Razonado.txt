@@ -1,0 +1,19 @@
+Ejercicio_Razonado_Capítulo_1
+
+Problema:
+Martina leyó que la población de tres comunas es la siguiente:
+- Comuna A: 2.504.308 habitantes
+- Comuna B: 3.402.150 habitantes
+- Comuna C: 3.402.105 habitantes
+
+Pregunta:
+¿Cuál es la comuna más poblada? ¿Cuál es la menos poblada?
+
+Resolución paso a paso:
+1. Observa los millones: B y C tienen 3 millones, A solo 2 millones → A es la menos poblada.
+2. Compara B (3.402.150) con C (3.402.105):
+   - Ambos tienen 3.402.1__ → compara las últimas cifras: 50 vs 05
+   - 150 > 105 → B es la más poblada.
+
+Respuesta final:
+La comuna más poblada es la B y la menos poblada es la A.

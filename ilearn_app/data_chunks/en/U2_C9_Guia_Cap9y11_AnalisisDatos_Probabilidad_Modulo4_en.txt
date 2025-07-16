@@ -1,0 +1,14 @@
+📌 Workbook: Module 4 - Data and Probability
+Unit: Unit 2
+Chapters:
+- Chapter 9 - Data Analysis (tables, graphs)
+- Chapter 11 - Probabilities (possible, impossible events)
+
+🔹 Contents:
+- Data collection and frequency tables
+- Construction of bar and line graphs
+- Calculation of the arithmetic mean
+- Recognition of certain, possible, and impossible events
+
+💡 Expected Evaluation:
+The student applies reading and interpreting data and recognizes probability in experimental contexts.

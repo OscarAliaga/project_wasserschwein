@@ -1,20 +1,15 @@
-from fastapi import FastAPI
-from pydantic import BaseModel
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
+from pydantic import BaseModel
+from pathlib import Path
+from dotenv import load_dotenv
+from contextlib import asynccontextmanager
+import openai, os, random, re
+
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from dotenv import load_dotenv
-from fastapi import FastAPI, Request
-import openai
-import os
-import random
-import re
-
-load_dotenv()
-
-
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_openai import ChatOpenAI
@@ -22,13 +17,23 @@ from langchain.chains import RetrievalQA
 from langchain.chains.question_answering import load_qa_chain
 from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 
-class Question(BaseModel):
-    question: str
-    user_id: str
-    stage: int = 1
-    lang: str = "es"
+# ============= CONFIG GLOBAL ==============
 
-app = FastAPI()
+BASE_DIR = Path(__file__).resolve().parent
+
+load_dotenv()
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
+qa_chains = {"es": {}, "en": {}}
+user_sessions = {}
+
+# ========== APP CON LIFESPAN =========
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    load_rag_pipeline()
+    yield
+
+app = FastAPI(lifespan=lifespan)
 
 app.add_middleware(
     CORSMiddleware,
@@ -40,15 +45,31 @@ app.add_middleware(
 
 app.mount(
     "/images",
-    StaticFiles(directory="/Volumes/External_SSD_2TB/Difference_Maker_2025/Material_nuevo/Flutter_app_code/ilearn_app/assets/images"),
+    StaticFiles(directory=BASE_DIR / "assets" / "images"),
     name="images"
 )
 
-openai.api_key = os.getenv("OPENAI_API_KEY")
+# ============= MODELO ============
+class Question(BaseModel):
+    question: str
+    user_id: str
+    stage: int = 1
+    lang: str = "es"
 
 qa_chains = {"es": {}, "en": {}}
 user_sessions = {}
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+openai.api_key = os.getenv("OPENAI_API_KEY")
+
+# ======== TEMAS =========
 temas_by_lang = {
     "es": {
         "fracciones": {
@@ -140,23 +161,27 @@ temas_by_lang = {
     }
 }
 
-@app.on_event("startup")
+# ========= RAG PIPELINE ==========
+@asynccontextmanager
 def load_rag_pipeline():
     global qa_chains
 
-    base_dirs = {
-        "es": "/Volumes/External_SSD_2TB/Difference_Maker_2025/Material_nuevo/proyecto_rag_gpt35/data_chunks",
-        "en": "/Volumes/External_SSD_2TB/Difference_Maker_2025/Material_nuevo/proyecto_rag_gpt35/data_chunks_en"
-    }
-
-    index_dirs = {
-        "es": "/Volumes/External_SSD_2TB/Difference_Maker_2025/Material_nuevo/proyecto_rag_gpt35/index_es",
-        "en": "/Volumes/External_SSD_2TB/Difference_Maker_2025/Material_nuevo/proyecto_rag_gpt35/index_en"
-    }
+    data_dir = BASE_DIR / "data_chunks"
+    index_dir = BASE_DIR / "index"
 
     base_prompts = {
         "es": """Eres Capibara, un tutor **extremadamente** paciente, **amigable y divertido** que ayuda a niños de primaria a entender ideas complejas con **ejemplos súper simples, muchísimos emojis relevantes**, frases motivadoras y **mucho cariño**. Siempre mantén un tono entusiasta y de apoyo. No seas formal. Aquí tienes información relevante para tu respuesta, pero tu personalidad es lo más importante:\n\n{context}""",
         "en": """You are Capibara, an **extremely** patient, **friendly and fun** tutor who helps elementary students understand complex ideas using **super simple examples, tons of fun emojis**, motivational phrases, and **lots of affection**. Always keep an enthusiastic and supportive tone. Don't be formal. Here is some helpful information for your answer, but your personality is the most important part:\n\n{context}"""
+    }
+
+    base_dirs = {
+        "es": data_dir / "es",
+        "en": data_dir / "en"
+    }
+
+    index_dirs = {
+        "es": index_dir / "es",
+        "en": index_dir / "en"
     }
 
     system_prompts = {

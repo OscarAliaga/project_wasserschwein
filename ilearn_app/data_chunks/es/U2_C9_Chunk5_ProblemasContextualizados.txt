@@ -1,0 +1,11 @@
+📂 Problemas contextualizados
+
+Situaciones:
+1. Un gráfico de barras muestra el número de bicicletas vendidas por mes. ¿En qué mes se vendieron más? ¿Cuál fue la diferencia con el mes siguiente?
+2. Una tabla muestra asistencia escolar semanal. ¿En qué semana hubo mayor asistencia?
+3. Un gráfico de líneas muestra la temperatura en julio. ¿Qué tendencia observas?
+
+Actividad:
+a) Construye un gráfico según una encuesta que tú realices (comida favorita, deporte, etc.)  
+b) Intercambia tu gráfico con un compañero e interpreta el suyo  
+c) Escribe 2 conclusiones que puedas sacar de los datos observados

@@ -1,0 +1,4 @@
+Exercise_2_Chapter_17
+Draw an irregular figure composed of a rectangle and a triangle.
+a) Calculate its area by dividing it into known shapes.
+b) Explain your procedure step by step.

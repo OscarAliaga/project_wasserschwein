@@ -1,0 +1,7 @@
+Exercise_2_Chapter_10
+Observe the following geometric figures:
+- A rectangle
+- An equilateral triangle
+- A rhombus
+a) Which pairs of sides are parallel in each figure?
+b) Which figure has perpendicular sides?

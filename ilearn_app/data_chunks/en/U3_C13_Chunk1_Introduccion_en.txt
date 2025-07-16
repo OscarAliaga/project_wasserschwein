@@ -1,0 +1,8 @@
+📘 Unit 3 - Chapter 13: Mean or Average
+Thematic Axis: Data and Probability
+
+Learning Objectives:
+- LO 18: Calculate and use the arithmetic mean in meaningful contexts
+
+Overview:
+This chapter introduces the concept of mean or average as a representative measure of a set of data. Students will learn to calculate it by adding all the data and dividing by the number of elements. It will be applied in everyday situations such as grades, distances, or counts, with an emphasis on interpreting the result.

@@ -1,0 +1,20 @@
+Ejercicio_1_Capítulo_4
+
+Título: Convertir unidades de longitud
+
+Descripción: Observa las siguientes longitudes y conviértelas a la unidad indicada.
+
+1. 3 metros = ________ centímetros
+2. 1.5 kilómetros = ________ metros
+3. 200 milímetros = ________ centímetros
+4. 4.25 metros = ________ milímetros
+
+Pregunta de análisis:
+¿Qué patrón observas entre las unidades que conviertes? ¿Qué debes hacer para pasar de una unidad mayor a una menor?
+
+Indicaciones para el estudiante:
+- Utiliza la tabla de conversión de unidades.
+- Recuerda que:
+  - 1 metro = 100 centímetros
+  - 1 kilómetro = 1.000 metros
+  - 1 centímetro = 10 milímetros

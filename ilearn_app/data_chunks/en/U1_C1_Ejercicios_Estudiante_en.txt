@@ -1,0 +1,29 @@
+📘 Chunk 2: Exercises from the Student Text (Chapter 1, Unit 1)
+Objective: Apply knowledge of the decimal numbering system in tasks involving reading, decomposition, and comparison of numbers up to 9 digits.
+
+1. Activity 1 – What number is it?:
+- Represent with digits: "Three million two hundred thousand forty-six".
+- How many digits does that number have?
+- What digit is in the millions place?
+
+2. Activity 2 – Decomposition:
+- Write the additive decomposition of: 4,208,015.
+- Then, write a different number with the same number of digits and decompose it in canonical form.
+
+3. Activity 3 – Hidden number game:
+- What number is formed if you change the 5 to a 9 in 6,500,000?
+- And if you remove the digit in the tens of thousands place?
+
+4. Activity 4 – Comparison with place value chart:
+- Complete the table with the number 7,892,041.
+  Millions | Hundreds of thousands | Ten thousands | Thousands | Hundreds | Tens | Ones
+  ________ | ___________ | ________ | ____ | _______ | _______ | ________
+- Then indicate:
+  a) Which digit is the largest?
+  b) What does the 8 represent in that number?
+
+5. Challenge Activity – Who has the largest number?:
+- Sofia: 8,765,123
+- Juan: 8,756,321
+- Matias: 8,765,321
+Who has the largest number? How do you know?

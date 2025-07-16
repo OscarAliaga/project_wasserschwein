@@ -1,0 +1,15 @@
+📂 Equivalent Fractions
+
+Explanation:
+Two fractions are equivalent if they represent the same part of a whole, even if their numbers are different.
+
+Example:
+2/4 = 1/2 because 2×1 = 1×2
+
+Method to obtain equivalent fractions:
+- Multiply or divide the numerator and denominator by the same number
+
+Activity:
+a) Find 2 fractions equivalent to 3/5  
+b) Are 4/6 and 2/3 equivalent? Justify  
+c) Draw and graphically represent 1/2, 2/4, 3/6

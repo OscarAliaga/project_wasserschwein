@@ -1,0 +1,11 @@
+Exercise_Reasoning_Chapter_10
+
+Problem:
+Are the opposite sides of a rectangle parallel?
+
+Step-by-step resolution:
+1. A rectangle has opposite sides of equal length that never cross each other.
+2. This meets the definition of parallelism.
+
+Final answer:
+Yes, the opposite sides of a rectangle are parallel.

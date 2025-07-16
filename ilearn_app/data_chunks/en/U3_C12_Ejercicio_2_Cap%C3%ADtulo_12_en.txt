@@ -1,0 +1,5 @@
+Exercise_2_Chapter_12
+Solve these expressions using parentheses:
+a) (8 + 2) × (6 – 3) =
+b) 4 + [5 × (2 + 1)] =
+c) [(10 – 2) + 3] × 2 =

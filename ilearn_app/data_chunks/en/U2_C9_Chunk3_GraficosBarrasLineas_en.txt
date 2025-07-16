@@ -1,0 +1,20 @@
+📂 Bar and Line Graphs
+
+Explanation:
+- Bar graphs show comparisons between categories.
+- Line graphs represent data that changes over time (trends).
+
+Example:
+Bar graph showing the number of books read per day.
+Line graph showing daily temperature over a week.
+
+Activity:
+a) Create a bar graph with the following table:
+| Day       | Books |
+|----------|--------|
+| Monday  | 2       |
+| Tuesday | 3       |
+| Wednesday| 5     |
+
+b) Draw a line graph with the temperature (°C) over 5 days:
+Mon: 15 – Tue: 17 – Wed: 18 – Thu: 16 – Fri: 19

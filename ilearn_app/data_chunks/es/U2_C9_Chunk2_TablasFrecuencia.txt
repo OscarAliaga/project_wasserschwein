@@ -1,0 +1,17 @@
+📂 Tablas de frecuencia
+
+Explicación:
+Una tabla de frecuencia permite organizar datos recolectados, mostrando cuántas veces ocurre cada valor.
+
+Ejemplo:
+Número de estudiantes por color favorito:
+| Color  | Frecuencia |
+|--------|------------|
+| Rojo   | 6          |
+| Azul   | 9          |
+| Verde  | 5          |
+
+Actividad:
+a) Realiza una encuesta sobre fruta favorita con 10 compañeros  
+b) Organiza los resultados en una tabla de frecuencia  
+c) ¿Cuál es la fruta más popular? ¿Cuál es la menos elegida?

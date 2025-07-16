@@ -1,0 +1,19 @@
+📂 Possible and Impossible Events
+
+Explanation:
+- An impossible event cannot occur (probability = 0)
+- A possible event can occur, although not with certainty
+- A certain event always occurs (probability = 1)
+
+Examples:
+- Rolling a number greater than 6 on a die: impossible
+- Drawing a red shape from a bag with various colored shapes: possible
+- The sun will rise tomorrow: certain
+
+Activity:
+a) Classify the following events:
+1) Rolling a die and getting a number
+2) Getting the number 9 on a die
+3) A pencil falling downward
+
+Justify your answers.

@@ -1,0 +1,27 @@
+📘 Chunk 1: Ejercicios desde la Guía del Docente (Capítulo 1, Unidad 1)
+Propósito: Comprender el valor posicional de los números hasta los millones y practicar su comparación y descomposición.
+
+1. Lectura y escritura de números grandes:
+- Lee en voz alta el número: 5.263.084.
+- Escríbelo con palabras.
+- ¿Qué cifra ocupa el lugar de los cientos de mil?
+- ¿Cuál es el valor posicional del número 6 en 5.263.084?
+
+2. Descomposición aditiva y canónica:
+- Descompón el número 8.430.726 de forma aditiva.
+- Luego escríbelo en su forma canónica.
+
+3. Comparación y orden:
+- Ordena los siguientes números de menor a mayor: 2.537.019 – 3.507.219 – 2.999.321 – 1.432.765.
+- Usa >, < o = para comparar:
+  a) 7.805.231 ___ 7.815.320
+  b) 6.430.111 ___ 6.430.110
+
+4. Valor relativo y absoluto:
+- ¿Cuál es el valor absoluto del dígito 9 en 2.491.372?
+- ¿Y su valor relativo?
+
+5. Ejercicio aplicado:
+- La población de tres comunas es la siguiente:
+  A: 3.245.219 – B: 2.984.023 – C: 3.245.218
+  ¿Cuál tiene más habitantes? ¿Cuáles tienen casi la misma población?

@@ -1,0 +1,11 @@
+📌 Guide: Basic Learnings 2 - Possibility of Occurrence
+Unit: Unit 4
+Chapter: Chapter 11 - Probabilities (possible, impossible events)
+
+🔹 Contents:
+- Classification of events according to their possibility: certain, possible, unlikely, impossible
+- Verbal and written justification of simple probabilities in games of chance
+- Strategies to evaluate the relative probability of winning
+
+💡 Expected Evaluation:
+Demonstrate verbal and written understanding of possible events, predict outcomes using everyday language, and justify their decisions.

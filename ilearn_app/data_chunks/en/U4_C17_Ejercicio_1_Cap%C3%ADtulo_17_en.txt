@@ -1,0 +1,5 @@
+Exercise_1_Chapter_17
+Calculate the area of the following shapes:
+a) Rectangle with dimensions 8 cm × 5 cm
+b) Triangle with a base of 10 cm and height of 6 cm
+c) Parallelogram with a base of 12 cm and height of 4 cm

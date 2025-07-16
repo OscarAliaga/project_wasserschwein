@@ -1,0 +1,9 @@
+📂 Problemas contextualizados
+
+Situaciones:
+1. Se reparten 702 stickers en 6 sobres. ¿Cuántos van en cada sobre?
+2. Hay 308 sillas para 4 salones. ¿Cuántas sillas por salón?
+3. Un camión transporta 506 cajas en 2 viajes iguales. ¿Cuántas cajas por viaje?
+
+Actividad:
+Resuelve y explica en qué paso aparece el cero en el cociente. Usa el algoritmo y verifica tus resultados con multiplicación.

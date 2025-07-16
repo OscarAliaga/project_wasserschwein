@@ -1,0 +1,14 @@
+Exercise_1_Chapter_5
+
+Title: Exact Division with Remainder
+
+In a school competition, 436 stickers were handed out to be distributed equally among groups of 3 students.
+
+a) How many complete groups can be formed?
+b) How many stickers are left over?
+c) How many more stickers are needed to complete another group?
+
+Explain in your own words how you solved the exercise and write the corresponding mathematical operation.
+
+🧠 Objective: Apply divisions with remainders using the algorithm.
+📚 Content: Division by a single digit with a quotient of 2 or 3 digits.

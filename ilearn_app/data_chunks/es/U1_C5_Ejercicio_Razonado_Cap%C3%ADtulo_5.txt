@@ -1,0 +1,14 @@
+SiEjercicio_Razonado_Capítulo_5
+
+Problema:
+Repartir 816 panes en partes iguales entre 4 locales.
+
+Resolución paso a paso:
+1. Dividimos 816 ÷ 4
+   - 8 ÷ 4 = 2 (centenas)
+   - 1 decena → baja un 0 → 01 → no cabe, agregamos 0 al cociente
+   - Bajamos el 6 → 16 ÷ 4 = 4
+   - Resultado: 204
+
+Respuesta final:
+Cada local recibe 204 panes.

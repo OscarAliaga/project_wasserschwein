@@ -1,0 +1,11 @@
+📌 Guía N°6 – Azar y probabilidad
+Unidad: Unidad 4
+Capítulo: Capítulo 11 – Probabilidades (eventos posibles, imposibles)
+
+🔹 Contenidos:
+- Lanzamiento de objetos y registro de frecuencias
+- Clasificación de eventos como posibles o imposibles
+- Comparación de probabilidad de eventos opuestos (cara vs sello)
+
+💡 Evaluación esperada:
+Aplican conceptos básicos de azar, identifican eventos opuestos y reconocen la variabilidad en juegos aleatorios.

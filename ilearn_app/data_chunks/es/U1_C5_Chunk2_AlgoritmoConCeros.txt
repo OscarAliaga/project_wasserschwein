@@ -1,0 +1,19 @@
+📂 Algoritmo de división con ceros en el cociente
+
+Explicación:
+Cuando al dividir un número una cifra del cociente debe ser cero, no debe omitirse. El 0 mantiene el valor posicional correcto.
+
+Ejemplo:
+607 ÷ 6:
+- 6 cabe en 6 → 1
+- 6 no cabe en 0 → se escribe 0
+- 6 cabe en 7 → 1
+→ Resultado: 101
+
+Actividad:
+Resuelve usando el algoritmo y escribe todos los pasos:
+a) 403 ÷ 4
+b) 709 ÷ 7
+c) 802 ÷ 8
+
+Discute con un compañero: ¿qué pasaría si no incluyes el 0 en el cociente?

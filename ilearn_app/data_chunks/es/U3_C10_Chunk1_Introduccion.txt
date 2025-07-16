@@ -1,0 +1,8 @@
+📘 Unidad 3 – Capítulo 10: Paralelismo y perpendicularidad en figuras y cuerpos
+Eje temático: Geometría
+
+Objetivos de Aprendizaje:
+- OA 9: Identificar y describir relaciones espaciales como paralelismo y perpendicularidad entre líneas y lados de figuras geométricas y cuerpos
+
+Descripción general:
+En este capítulo se introduce la noción de paralelismo y perpendicularidad mediante la observación y el análisis de figuras geométricas planas y cuerpos tridimensionales. Se promueve el uso de instrumentos como reglas, escuadras y software geométrico para verificar estas relaciones. El objetivo es que los estudiantes sean capaces de describir figuras usando lenguaje geométrico apropiado.

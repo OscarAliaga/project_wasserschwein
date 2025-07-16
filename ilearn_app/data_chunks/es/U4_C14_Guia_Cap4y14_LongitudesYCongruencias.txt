@@ -1,0 +1,15 @@
+📌 Guía Nº14: Longitudes y congruencias
+Unidad: Unidad 3
+Capítulos: Capítulo 4 – Longitud (m, cm, mm, km + conversiones) y Capítulo 14 – Congruencia (con transformaciones geométricas)
+
+🔹 OA trabajados:
+- OA18: Congruencia mediante traslación, reflexión y rotación
+- OA19: Medición de longitudes con unidades estandarizadas
+
+🔹 Actividades:
+- Ejercicios de conversión de unidades: km, m, cm, mm
+- Problemas con situaciones de la vida real (distancias, longitudes)
+- Identificación y análisis de figuras congruentes mediante transformaciones
+
+💡 Evaluación esperada:
+Aplicación práctica de unidades de medida y uso de transformaciones geométricas para reconocer congruencia en figuras del entorno.

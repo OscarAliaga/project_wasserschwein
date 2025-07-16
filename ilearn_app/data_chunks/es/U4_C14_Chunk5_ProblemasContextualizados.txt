@@ -1,0 +1,10 @@
+📂 Problemas contextualizados
+
+Situaciones:
+1. El techo de una casa forma un triángulo. ¿Qué tipo de triángulo es según sus lados? ¿Y según sus ángulos?
+2. Un triángulo de señalización tiene un ángulo recto. ¿Cómo se clasifica?
+
+Actividad:
+a) Representa estructuras reales que incluyan triángulos (puentes, señales, estructuras)  
+b) Clasifica cada triángulo dibujado según sus lados y sus ángulos  
+c) Explica por qué esta clasificación puede ser útil en arquitectura o diseño estructural

@@ -1,0 +1,17 @@
+📂 Calculation of the arithmetic mean
+
+Explanation:
+The mean is calculated by adding all the values and dividing by the number of elements.
+
+Formula:
+Mean = (sum of the data) / (number of data points)
+
+Example:
+Grades: 5, 6, 4  
+Mean = (5 + 6 + 4) / 3 = 15 / 3 = 5
+
+Activity:
+a) Calculate the mean of the following sets:
+1) 2, 3, 5, 6  
+2) 10, 12, 8, 14, 6  
+b) Interpret the result in each case

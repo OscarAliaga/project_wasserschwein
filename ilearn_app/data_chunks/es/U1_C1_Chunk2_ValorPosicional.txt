@@ -1,0 +1,21 @@
+📂 Valor posicional
+
+Explicación:
+Cada dígito en un número tiene un valor dependiendo de su posición. Por ejemplo, en 72.485.190:
+- El 7 está en la decena de millones → vale 70.000.000
+- El 2 está en la unidad de millón → vale 2.000.000
+- El 4 está en la centena de mil → vale 400.000
+- Y así sucesivamente...
+
+Ejemplo trabajado:
+Escribe el valor posicional del número: 58.903.621
+- 50 millones
+- 8 millones
+- 900 mil
+- 3 mil
+- 600
+- 20
+- 1
+
+Actividad sugerida (estudiante):
+Lee en voz alta los números. Después, escríbelos en forma descompuesta. Marca con color la cifra que representa más valor.

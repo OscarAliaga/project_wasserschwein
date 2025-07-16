@@ -1,0 +1,16 @@
+📌 Guía: Unidad 2 – Área y Congruencia – Parte 2
+Unidad: Unidad 2
+Capítulo: Capítulo 17 – Área (con vínculo a Capítulo 14: Congruencia)
+
+🔹 OA trabajados:
+- OA21: Construcción de rectángulos dados el perímetro o el área
+- OA18: Comprensión del concepto de congruencia con transformaciones
+- OA_f / OA_e: Comunicación matemática y comprobación de propiedades
+
+🔹 Actividades:
+- Representación de rectángulos en cuadrícula
+- Cálculo de áreas para comparar formas
+- Ejemplos de congruencia por traslación y rotación
+
+💡 Evaluación esperada:
+Reconocimiento de congruencia, uso de transformaciones básicas y análisis comparativo de figuras según su forma y área.

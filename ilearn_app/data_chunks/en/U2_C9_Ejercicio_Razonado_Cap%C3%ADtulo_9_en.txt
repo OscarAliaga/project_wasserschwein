@@ -1,0 +1,11 @@
+Exercise_Reasoning_Chapter_9
+
+Problem:
+A graph shows that 20 books were sold in April, 25 in May, and 15 in June. What was the monthly average?
+
+Step-by-step solution:
+1. Add up the books: 20 + 25 + 15 = 60
+2. Divide by 3 months: 60 ÷ 3 = 20
+
+Final answer:
+The monthly average of books sold is 20.

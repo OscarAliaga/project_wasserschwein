@@ -1,0 +1,15 @@
+📂 Lectura e interpretación de datos
+
+Explicación:
+Leer gráficos permite responder preguntas sobre los datos, identificar patrones y tomar decisiones. Es importante observar ejes, títulos y leyendas.
+
+Ejemplo:
+En un gráfico de barras de ventas mensuales:
+- ¿En qué mes se vendió más?
+- ¿Cuál fue la diferencia entre el mejor y peor mes?
+
+Actividad:
+Observa el siguiente gráfico (a construir en clase):
+a) ¿Cuál categoría tiene mayor frecuencia?  
+b) ¿Qué puedes inferir del cambio entre dos días?  
+c) ¿Podrías predecir el resultado del día siguiente?

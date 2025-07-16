@@ -1,0 +1,10 @@
+Exercise_Reasoned_Chapter_15
+
+Problem:
+Solve the equation: x - 5 = 12
+
+Step-by-step solution:
+1. Add 5 to both sides: x = 12 + 5 = 17
+
+Final answer:
+x = 17

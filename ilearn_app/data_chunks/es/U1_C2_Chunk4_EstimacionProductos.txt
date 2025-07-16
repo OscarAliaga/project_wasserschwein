@@ -1,0 +1,19 @@
+📂 Estimación de productos
+
+Explicación:
+Estimar el resultado de una multiplicación ayuda a comprobar si un resultado es razonable.
+
+Técnicas:
+- Redondear uno o ambos factores a la decena más cercana
+- Multiplicar mentalmente los valores redondeados
+
+Ejemplo:
+68 × 42 → Estimación: 70 × 40 = 2800
+
+Actividad:
+Estima el resultado de los siguientes productos antes de calcular con precisión:
+a) 29 × 61
+b) 87 × 24
+c) 53 × 19
+
+Luego compara con el resultado exacto.

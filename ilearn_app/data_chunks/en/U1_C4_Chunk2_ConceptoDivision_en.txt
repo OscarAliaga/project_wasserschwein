@@ -1,0 +1,12 @@
+📂 Division Concept
+
+Explanation:
+Division is the act of distributing into equal parts or grouping elements. Division involves four elements:
+- Dividend, divisor, quotient, and remainder
+
+Example:
+If 25 cookies are divided among 5 children:
+25 ÷ 5 = 5 → each child receives 5 cookies
+
+Suggested Activity:
+Distribute 36 pencils into 6 pencil cases. How many pencils go in each case?

@@ -1,0 +1,8 @@
+📘 Unit 3 - Chapter 12: Combined Operations
+Thematic Axis: Numbers and Operations
+
+Learning Objectives:
+- LO 2: Apply the order of operations in calculations that combine addition, subtraction, multiplication, and division, including the use of parentheses.
+
+Overview:
+This chapter develops the ability to solve mathematical expressions with more than one operation, respecting the order of operations: first parentheses, then multiplication/division, and finally addition/subtraction. Strategies are presented to organize calculations, and the importance of order in solving problems is reinforced.

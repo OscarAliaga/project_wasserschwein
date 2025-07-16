@@ -1,0 +1,10 @@
+📂 Problemas contextualizados
+
+Situaciones:
+1. En una semana, un niño lee 3, 5, 2, 4 y 6 páginas por día. ¿Cuál fue su promedio de lectura diaria?
+2. Una familia gasta en 5 días: $3.000, $2.500, $4.000, $3.500 y $2.000. ¿Cuál fue el gasto promedio?
+
+Actividad:
+a) Representa los datos en una tabla  
+b) Calcula la media  
+c) Comenta si el promedio refleja bien la situación o hay variaciones importantes

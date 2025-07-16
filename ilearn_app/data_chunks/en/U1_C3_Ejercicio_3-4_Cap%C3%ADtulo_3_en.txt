@@ -1,0 +1,29 @@
+Exercise_3_Chapter_3
+
+Instruction:
+Matías used a 45 cm ribbon and divided it into 3 equal parts. How long is each part?
+
+Objective:
+To divide a total length into equal parts.
+
+Context:
+Division of decorative material.
+
+Suggested strategy:
+Division: 45 ÷ 3 = ?
+
+---
+
+Exercise_4_Chapter_3
+
+Instruction:
+Ema and Sofía combined their ribbons. Ema used a 28 cm ribbon and Sofía used a 33 cm one. How many centimeters do they add up to together?
+
+Objective:
+To add lengths.
+
+Context:
+Calculating the total length of ribbon used.
+
+Suggested strategy:
+Direct addition: 28 + 33 = ?

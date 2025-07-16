@@ -1,0 +1,16 @@
+📌 Guide: Unit 2 - Area and Congruence - Part 2
+Unit: Unit 2
+Chapter: Chapter 17 - Area (with link to Chapter 14: Congruence)
+
+🔹 Worked Learning Objectives (OA):
+- OA21: Constructing rectangles given the perimeter or area
+- OA18: Understanding the concept of congruence through transformations
+- OA_f / OA_e: Mathematical communication and verification of properties
+
+🔹 Activities:
+- Representation of rectangles on a grid
+- Calculation of areas to compare shapes
+- Examples of congruence through translation and rotation
+
+💡 Expected Assessment:
+Recognition of congruence, use of basic transformations, and comparative analysis of figures based on their shape and area.

@@ -1,0 +1,8 @@
+📘 Unit 3 - Chapter 11: Probabilities
+Thematic Axis: Data and Chance
+
+Learning Objectives:
+- LO 17: Identify and describe events as certain, possible, or impossible in simple random experiments
+
+Overview:
+This chapter introduces the notion of probability as a tool to describe how likely an event is to occur. Games, roulette, dice, and other everyday situations are used to analyze and classify events as certain, possible, or impossible. Students are encouraged to argue based on their observations and predictions.

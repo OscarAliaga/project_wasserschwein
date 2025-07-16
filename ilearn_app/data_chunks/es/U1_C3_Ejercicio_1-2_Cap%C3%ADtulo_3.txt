@@ -1,0 +1,30 @@
+Ejercicio_1_Capítulo_3
+
+Instrucción:
+Ema, Sofía y Matías usan cintas para decorar el gimnasio. Ema usó una cinta de 28 cm, Sofía una de 33 cm y Matías una de 26 cm. ¿Quién usó la cinta más larga? ¿Quién la más corta?
+
+Objetivo:
+Comparar longitudes expresadas en centímetros.
+
+Contexto:
+Decoración del gimnasio escolar con cintas.
+
+Estrategia sugerida:
+Utilizar una tabla para organizar los datos y realizar una comparación directa.
+
+---
+
+Ejercicio_2_Capítulo_3
+
+Instrucción:
+Sofía necesita cortar 5 cintas de 20 cm. ¿Cuántos centímetros de cinta necesita en total?
+
+Objetivo:
+Multiplicar para encontrar una longitud total.
+
+Contexto:
+Uso de cinta en decoración.
+
+Estrategia sugerida:
+Representar el problema como una suma repetida o multiplicación: 5 × 20 = ?
+

@@ -1,0 +1,17 @@
+📂 Multiplication by Tens
+
+Explanation:
+Multiplying by tens involves applying the distributive property of multiplication. For example:
+23 × 30 = 23 × (3 × 10) = (23 × 3) × 10 = 69 × 10 = 690
+
+Worked Example:
+What is 48 × 20?
+→ 48 × 20 = (48 × 2) × 10 = 96 × 10 = 960
+
+Suggested Activity:
+Mentally calculate the following products:
+a) 15 × 40
+b) 32 × 50
+c) 71 × 30
+
+Compare your results with estimations by rounding the factors.

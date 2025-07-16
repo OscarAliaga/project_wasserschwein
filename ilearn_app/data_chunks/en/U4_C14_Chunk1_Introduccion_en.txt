@@ -1,0 +1,8 @@
+📘 Unit 4 - Chapter 14: Angles and Triangles
+Thematic Axis: Geometry
+
+Learning Objectives:
+- LO 10: Identify and classify triangles according to the measurement of their angles and the length of their sides
+
+Overview:
+This chapter introduces the concept of angles and their types (acute, right, obtuse), as well as the classification of triangles by their angles (acute-angled, right-angled, obtuse-angled) and sides (equilateral, isosceles, scalene). Emphasis is placed on using a protractor to measure angles and recognize geometric characteristics in real figures.

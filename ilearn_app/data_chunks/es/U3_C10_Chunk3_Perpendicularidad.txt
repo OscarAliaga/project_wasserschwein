@@ -1,0 +1,13 @@
+📂 Identificación de líneas perpendiculares
+
+Explicación:
+Dos líneas son perpendiculares si se cruzan formando un ángulo recto (90°).
+
+Ejemplos:
+- Esquinas de una hoja de papel  
+- Ejes X e Y en el plano cartesiano
+
+Actividad:
+a) Dibuja dos líneas perpendiculares usando una escuadra  
+b) Identifica en objetos reales ejemplos de líneas perpendiculares (puertas, ventanas)  
+c) Marca las intersecciones perpendiculares en un triángulo rectángulo

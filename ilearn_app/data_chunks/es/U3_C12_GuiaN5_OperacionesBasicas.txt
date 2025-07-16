@@ -1,0 +1,14 @@
+📌 Ejercicio N°1
+Unidad: Unidad 1 – Problemas y números
+Capítulo: Operatoria combinada (uso de paréntesis, orden de operaciones)
+Guía: Nº5 (11–15 mayo)
+Tipo: Resolución de ejercicios combinados
+
+🔹 Enunciado:
+Una persona tiene $15 678 ahorrados y luego su cuenta muestra $20 789. ¿Cuánto dinero se depositó?
+
+✅ Respuesta correcta:
+$20 789 – $15 678 = $5 111
+
+💡 Explicación esperada:
+Se espera que el estudiante aplique correctamente la resta para encontrar la diferencia entre los montos.

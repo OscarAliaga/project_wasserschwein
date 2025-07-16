@@ -1,0 +1,12 @@
+📂 Volume Concept
+
+Explanation:
+Volume is the amount of space occupied by an object. It is measured in cubic units (cm³, m³, etc.).
+
+Example:
+A cube with 1 cm sides has a volume of 1 cm³.
+
+Activity:
+a) Build a cube using graph paper
+b) Count how many 1 cm³ cubes fit inside a box
+c) Draw a three-dimensional figure and estimate its volume

@@ -1,0 +1,5 @@
+Ejercicio_1_Capítulo_11
+Imagina que lanzas un dado. ¿Cuál es la probabilidad de que salga un número mayor que 4?
+a) Enumera los resultados posibles.
+b) Indica cuántos resultados cumplen la condición.
+c) Escribe la probabilidad como fracción.

@@ -1,0 +1,12 @@
+📘 Unidad 1 – Capítulo 5: División por 1 dígito con ceros en el cociente
+Eje temático: Números y Operaciones
+
+Objetivos de Aprendizaje:
+- OA 4: Demostrar que comprenden la división de números naturales:
+  • Aplicando estrategias de cálculo
+  • Usando estimaciones
+  • Utilizando el algoritmo tradicional
+  • Comprendiendo la importancia del cero en el cociente
+
+Descripción general del capítulo:
+Este capítulo se enfoca en el cálculo de divisiones donde el resultado incluye ceros en el cociente. El objetivo es que los estudiantes comprendan cómo estos ceros afectan el resultado y que no deben ser omitidos al usar el algoritmo estándar. Se trabajan errores comunes y se proponen estrategias para detectarlos y corregirlos.

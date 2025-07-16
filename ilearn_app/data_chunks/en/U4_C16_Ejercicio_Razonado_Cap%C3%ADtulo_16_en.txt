@@ -1,0 +1,12 @@
+Exercise_Reasoned_Chapter_16
+
+Problem:
+Sum: 3/4 + 1/8
+
+Step-by-step solution:
+1. Least common denominator: 8
+2. Convert 3/4 to 6/8
+3. Add: 6/8 + 1/8 = 7/8
+
+Final answer:
+3/4 + 1/8 = 7/8

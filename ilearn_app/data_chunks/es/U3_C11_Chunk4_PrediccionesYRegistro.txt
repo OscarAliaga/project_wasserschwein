@@ -1,0 +1,15 @@
+📂 Predicciones y registro de resultados
+
+Explicación:
+Se pueden hacer predicciones antes de realizar un experimento aleatorio, y luego registrar los resultados reales para compararlos.
+
+Ejemplo:
+Esperamos que al lanzar un dado 12 veces, cada número salga 2 veces, pero en la práctica puede variar.
+
+Actividad:
+a) Lanza una moneda 20 veces y registra los resultados  
+b) Compara tu predicción inicial con el resultado real  
+c) ¿Fueron iguales? ¿Qué explicación puedes dar?
+
+Reflexión:
+¿Por qué es útil conocer la probabilidad en juegos, decisiones o predicciones del clima?

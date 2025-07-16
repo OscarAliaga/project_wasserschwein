@@ -1,0 +1,14 @@
+📂 División por dos dígitos
+
+Explicación:
+Dividir por dos cifras requiere una buena estimación del cociente parcial y una verificación mediante multiplicación inversa.
+
+Ejemplo:
+754 ÷ 24 ≈ se aproxima por 24 × 30 = 720 → cociente 30
+
+Actividad:
+Calcula:
+a) 832 ÷ 26
+b) 1.104 ÷ 48
+
+Usa multiplicaciones estimadas para encontrar el cociente.

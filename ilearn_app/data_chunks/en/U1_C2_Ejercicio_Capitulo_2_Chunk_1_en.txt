@@ -1,0 +1,24 @@
+Chapter 2 – Chunk 1 of 2: Multiplication by 2 digits (strategies and algorithm)
+
+✅ Objective: Understand and apply strategies for multiplying two-digit numbers.
+
+🧠 Activity 1: Use of properties to facilitate calculation
+1a) Multiply 12 × 25 using the associative property.
+1b) Calculate 18 × 50 by dividing one factor by 2 and multiplying the other by 2.
+1c) Use the distributive property to solve 27 × 31.
+   → Break down as (20 + 7) × 31 and apply distributive property.
+
+🛠️ Activity 2: Strategies with multiples of 10
+2a) Calculate 35 × 40 and explain your procedure.
+2b) What pattern do you observe when multiplying by 10, 20, 30…?
+
+🧩 Activity 3: Multiplication in context
+Scenario: A box has 36 pencils. How much will 36 boxes cost if each one costs $85?
+→ Express as a multiplication, solve it, and justify your result.
+
+✍️ Reinforcement:
+• Apply distributive property
+• Mental multiplication with multiples of 10
+• Identify common errors (e.g., errors in partial sums)
+
+📘 Teacher's recommendation: Encourage the use of estimation before calculating to anticipate if the result is reasonable.

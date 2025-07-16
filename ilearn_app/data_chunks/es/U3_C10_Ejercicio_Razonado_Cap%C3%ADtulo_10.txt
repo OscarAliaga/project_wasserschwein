@@ -1,0 +1,11 @@
+Ejercicio_Razonado_Capítulo_10
+
+Problema:
+¿Los lados opuestos de un rectángulo son paralelos?
+
+Resolución paso a paso:
+1. Un rectángulo tiene lados opuestos de igual longitud y que nunca se cruzan.
+2. Esto cumple la definición de paralelismo.
+
+Respuesta final:
+Sí, los lados opuestos de un rectángulo son paralelos.

@@ -1,0 +1,13 @@
+📂 Contextualized Problems
+
+Situations:
+1. In a box, there are 4 groups of 6 pencils. If 5 are distributed, how many are left?
+→ (4 × 6) - 5
+
+2. A child buys 3 juices at $250 each and a cookie for $400. How much does he spend?
+→ (3 × 250) + 400
+
+Activity:
+a) Write the numerical expression for each problem
+b) Solve them by correctly applying the order of operations
+c) Create a similar problem with at least two different operations

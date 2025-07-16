@@ -1,0 +1,14 @@
+Exercise_Reasoned_Chapter_2
+
+Problem:
+A box contains 24 pencils. If the school buys 36 boxes, how many pencils will it have in total?
+
+Step-by-step solution:
+1. We multiply 36 × 24.
+2. We use the traditional algorithm:
+   - 36 × 4 = 144
+   - 36 × 20 = 720
+   - Total: 144 + 720 = 864
+
+Final answer:
+The school will have 864 pencils.

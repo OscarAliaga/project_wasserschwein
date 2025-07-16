@@ -1,0 +1,16 @@
+📂 Division by a Single Digit
+
+Explanation:
+When the divisor is a single digit, it can be solved by:
+- Breaking down the dividend
+- Using the multiplication table
+- Progressive estimations
+
+Example:
+234 ÷ 3 → Analyze how many times 3 fits into each digit of the dividend
+
+Activity:
+Solve the following divisions:
+a) 456 ÷ 3
+b) 528 ÷ 6
+c) 372 ÷ 4

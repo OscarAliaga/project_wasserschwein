@@ -1,0 +1,11 @@
+Ejercicio_Razonado_Capítulo_12
+
+Problema:
+Resuelve: (6 + 4) × 3
+
+Resolución paso a paso:
+1. Operación dentro del paréntesis: 6 + 4 = 10
+2. Multiplicamos: 10 × 3 = 30
+
+Respuesta final:
+El resultado es 30.

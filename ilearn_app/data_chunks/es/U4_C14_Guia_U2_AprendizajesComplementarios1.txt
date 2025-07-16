@@ -1,0 +1,16 @@
+📌 Guía: Unidad 2 – Aprendizajes Complementarios 1
+Unidad: Unidad 2 – Patrones y geometría
+Capítulo: Patrones geométricos y congruencia
+
+🔹 OA trabajados:
+- OA14: Identificar reglas de formación en patrones
+- OA16: Leer y escribir coordenadas en el plano cartesiano
+- OA18: Identificar congruencia mediante transformaciones (reflexión, rotación, traslación)
+
+🔹 Actividades:
+- Determinar coordenadas de figuras y reflejos
+- Identificar patrones en plano cartesiano
+- Comprobación de congruencia entre figuras
+
+💡 Evaluación esperada:
+Capacidad de identificar patrones visuales, operar en el plano cartesiano y justificar congruencia con base en medidas y ángulos.

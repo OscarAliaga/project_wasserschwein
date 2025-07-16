@@ -1,0 +1,24 @@
+Chapter 2 - Chunk 2 of 2: Multiplication by 2 digits (algorithm and problem-solving)
+
+🧠 Activity 4: Application of the algorithm
+4a) Solve 38 × 57 using the standard algorithm.
+4b) Calculate 25 × 70 following Sofia's idea (multiply by 0 and then by 7).
+4c) Now, try Juan's strategy (multiply by 7 and add the zero).
+
+🧮 Activity 5: Two-step problems
+5a) Juan makes 45 decorations, each requiring 24 cm of ribbon. How much ribbon does he need?
+→ Multiply and explain the process.
+
+5b) He buys 20 pencils at $98 each. How much does he pay?
+→ Estimate first, then use the algorithm.
+
+🔁 Activity 6: Comparison of procedures
+6a) Compare the results of 35 × 70 and 70 × 35. Are they equal?
+→ Argue using the commutative property.
+
+📘 Reinforcement:
+• Mastery of the traditional algorithm
+• Analysis of common errors (such as incorrect alignment)
+• Application of multiplication in real contexts
+
+🧑‍🏫 Teacher's suggestion: Evaluate understanding through oral activities before solving written exercises.

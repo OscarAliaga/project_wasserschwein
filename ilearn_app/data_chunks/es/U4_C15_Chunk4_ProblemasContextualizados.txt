@@ -1,0 +1,10 @@
+📂 Problemas contextualizados
+
+Situaciones:
+1. Un paquete mide 10 cm × 5 cm × 4 cm. ¿Cuál es su volumen?
+2. Un contenedor tiene forma de prisma con base de 8 m × 2 m y altura de 3 m. ¿Cuántos metros cúbicos de agua puede contener?
+
+Actividad:
+a) Resuelve los problemas aplicando la fórmula del volumen  
+b) Compara volúmenes de diferentes objetos del aula  
+c) Justifica por qué el cálculo del volumen es útil en embalaje, construcción y diseño

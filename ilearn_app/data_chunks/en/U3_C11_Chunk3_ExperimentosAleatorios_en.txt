@@ -1,0 +1,15 @@
+📂 Simple Random Experiments
+
+Explanation:
+A random experiment is one in which the outcome cannot be predicted with certainty. However, it is possible to identify the possible outcomes and their relative probabilities.
+
+Example:
+- Flipping a coin → heads or tails
+- Spinning a roulette wheel with 3 colors → each color has a 1/3 probability
+
+Activity:
+a) Draw a roulette wheel with 4 sections of different colors.
+b) What is the probability of each color coming up?
+c) What would happen if one color occupies half of the wheel?
+
+Discuss as a group how the number of possible outcomes influences probability.

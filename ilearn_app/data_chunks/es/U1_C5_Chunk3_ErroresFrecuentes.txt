@@ -1,0 +1,17 @@
+📂 Errores frecuentes y estrategias
+
+Errores comunes:
+- Omitir el cero en el cociente, por ejemplo: 607 ÷ 6 → escribir 11 en lugar de 101.
+- No alinear correctamente los dígitos en el algoritmo
+
+Estrategias para evitar errores:
+- Verificar cada paso con multiplicación inversa
+- Usar diagramas o tablas para representar el proceso
+- Leer en voz alta cada paso de la división
+
+Actividad:
+Compara los resultados de:
+a) 804 ÷ 4 (correcto)
+b) 804 ÷ 4 (omitiste el 0)
+
+¿Cuál es la diferencia? ¿Por qué es importante ese cero?

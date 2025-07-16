@@ -1,0 +1,11 @@
+📌 Guía: Análisis de datos y gráficos de barras
+Unidad: Unidad 2
+Capítulo: Capítulo 9 – Análisis de datos (tablas, gráficos, lectura e interpretación)
+
+🔹 Contenidos:
+- Lectura e interpretación de tablas de conteo
+- Representación de datos en gráficos de barras
+- Preguntas de frecuencia sobre encuestas simples
+
+💡 Evaluación esperada:
+El estudiante identifica, organiza e interpreta datos desde tablas de frecuencia simple y construye gráficos de barras.

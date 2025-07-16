@@ -1,0 +1,8 @@
+📘 Unidad 4 – Capítulo 14: Ángulos y triángulos
+Eje temático: Geometría
+
+Objetivos de Aprendizaje:
+- OA 10: Identificar y clasificar triángulos según la medida de sus ángulos y la longitud de sus lados
+
+Descripción general:
+En este capítulo se introduce el concepto de ángulo y sus tipos (agudo, recto, obtuso), así como la clasificación de triángulos por sus ángulos (acutángulo, rectángulo, obtusángulo) y lados (equilátero, isósceles, escaleno). Se enfatiza el uso del transportador para medir ángulos y reconocer características geométricas en figuras reales.

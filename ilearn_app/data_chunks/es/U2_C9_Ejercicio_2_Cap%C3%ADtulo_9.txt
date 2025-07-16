@@ -1,0 +1,7 @@
+Ejercicio_2_Capítulo_9
+Lee el siguiente gráfico de barras sobre los libros leídos en el mes:
+- Enero: 10 libros
+- Febrero: 15 libros
+- Marzo: 5 libros
+a) ¿En qué mes se leyó más?
+b) ¿Cuántos libros se leyeron en total?

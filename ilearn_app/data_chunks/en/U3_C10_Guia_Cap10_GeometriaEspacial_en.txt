@@ -1,0 +1,13 @@
+📌 Guide: Basic Notions of Space Geometry
+Unit: Unit 3
+Chapter: Chapter 10 - Parallelism and Perpendicularity in Figures and Bodies
+
+🔹 Contents:
+- Representation and notation of points, lines, and planes
+- Theorems that determine a plane from points and lines
+- Relative positions between lines and planes: parallel, intersecting, contained
+- Angle between lines, line and plane, parallel and intersecting planes
+- Application of the Theorem of Thales in space
+
+💡 Expected Evaluation:
+Understanding of spatial concepts and 3D geometric relationships, ability to solve applied problems and theoretically justify relative positions in space.

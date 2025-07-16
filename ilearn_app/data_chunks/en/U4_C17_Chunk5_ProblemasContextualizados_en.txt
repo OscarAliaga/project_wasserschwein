@@ -1,0 +1,10 @@
+📂 Contextualized Problems
+
+Situations:
+1. A logo must be symmetrical with respect to a vertical axis. How can this be verified?
+2. A figure must be moved 5 units down. What is its new position?
+
+Activity:
+a) Reproduce a figure and mark its image after applying a translation
+b) Identify in the environment at least 3 elements that have axial symmetry
+c) Explain how these transformations are used in design, art, or architecture

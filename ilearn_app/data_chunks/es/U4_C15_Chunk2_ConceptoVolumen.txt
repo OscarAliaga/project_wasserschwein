@@ -1,0 +1,12 @@
+📂 Concepto de volumen
+
+Explicación:
+El volumen es la cantidad de espacio que ocupa un objeto. Se mide en unidades cúbicas (cm³, m³, etc.).
+
+Ejemplo:
+Un cubo de 1 cm de lado tiene un volumen de 1 cm³
+
+Actividad:
+a) Construye un cubo usando papel cuadriculado  
+b) Cuenta cuántos cubos de 1 cm³ caben dentro de una caja  
+c) Dibuja una figura tridimensional y estima su volumen

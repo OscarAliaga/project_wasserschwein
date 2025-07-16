@@ -1,0 +1,14 @@
+Exercise_Reasoned_Chapter_5
+
+Problem:
+Distribute 816 loaves of bread equally among 4 locations.
+
+Step-by-step solution:
+1. Divide 816 ÷ 4
+   - 8 ÷ 4 = 2 (hundreds)
+   - 1 ten → bring down a 0 → 01 → does not fit, add 0 to the quotient
+   - Bring down the 6 → 16 ÷ 4 = 4
+   - Result: 204
+
+Final answer:
+Each location receives 204 loaves of bread.

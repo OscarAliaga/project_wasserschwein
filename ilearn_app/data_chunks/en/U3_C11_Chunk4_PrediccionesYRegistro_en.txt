@@ -1,0 +1,15 @@
+📂 Predictions and Recording Results
+
+Explanation:
+Predictions can be made before conducting a random experiment, and then the actual results can be recorded for comparison.
+
+Example:
+We expect that when rolling a die 12 times, each number will come up 2 times, but in practice it may vary.
+
+Activity:
+a) Toss a coin 20 times and record the results  
+b) Compare your initial prediction with the actual result  
+c) Were they the same? What explanation can you give?
+
+Reflection:
+Why is it useful to know probability in games, decisions, or weather predictions?

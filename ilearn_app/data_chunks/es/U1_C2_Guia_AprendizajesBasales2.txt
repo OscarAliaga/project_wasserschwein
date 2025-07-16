@@ -1,0 +1,12 @@
+📌 Guía: Aprendizajes Basales 2
+Unidad: Unidad 1 – Multiplicación
+Capítulo: Multiplicación por 2 dígitos (estrategias y algoritmo)
+
+🔹 Enunciados y actividades:
+- Estimar productos usando redondeo
+- Aplicar propiedad distributiva
+- Multiplicación por bloques base 10
+- Verificar cálculos con calculadora
+
+💡 Evaluación esperada:
+Uso de descomposición para facilitar el cálculo, estimación razonada y aplicación del algoritmo.

@@ -1,0 +1,14 @@
+Ejercicio_Razonado_Capítulo_6
+
+Problema:
+Camila tenía $3,75 y su mamá le dio $2,40. ¿Cuánto dinero tiene ahora?
+
+Resolución paso a paso:
+1. Sumamos los decimales: $3,75 + $2,40
+2. Alineamos las comas:
+   3,75
++ 2,40
+= 6,15
+
+Respuesta final:
+Camila tiene $6,15 en total.

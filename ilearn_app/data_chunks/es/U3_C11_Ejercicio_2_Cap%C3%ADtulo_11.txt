@@ -1,0 +1,4 @@
+Ejercicio_2_Capítulo_11
+Una bolsa contiene 3 bolas rojas, 2 verdes y 5 azules.
+a) ¿Cuál es la probabilidad de sacar una bola verde?
+b) ¿Y de sacar una bola que no sea azul?

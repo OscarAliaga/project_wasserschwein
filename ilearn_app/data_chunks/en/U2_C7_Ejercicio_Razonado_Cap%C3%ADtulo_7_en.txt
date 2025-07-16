@@ -1,0 +1,13 @@
+Exercise_Reasoned_Chapter_7
+
+Problem:
+The sequence is: 7, 14, 21, ___, ___
+
+Step-by-step solution:
+1. Identify the pattern: adding 7.
+2. Continue the sequence:
+   21 + 7 = 28
+   28 + 7 = 35
+
+Final answer:
+The next numbers are 28 and 35.

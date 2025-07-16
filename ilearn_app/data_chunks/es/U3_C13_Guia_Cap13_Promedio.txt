@@ -1,0 +1,15 @@
+📌 Guía: Aprendizajes Basales Unidad 3 – Promedios
+Unidad: Unidad 3
+Capítulo: Capítulo 13 – Media (promedio y análisis contextual)
+
+🔹 OA trabajados:
+- OA23: Calcular el promedio de datos en contextos de problemas
+- OA_a / OA_b / OA_e: Reconocer datos esenciales, resolver problemas, comprobar reglas
+
+🔹 Actividades:
+- Cálculo de promedio de notas
+- Ajustes al promedio con nuevas notas ponderadas
+- Promedio final considerando nota duplicada
+
+💡 Evaluación esperada:
+Uso del promedio aritmético simple y ponderado, capacidad de razonar sobre el efecto de un nuevo dato y representar correctamente el cálculo final.

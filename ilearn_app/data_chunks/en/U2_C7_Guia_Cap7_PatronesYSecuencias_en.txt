@@ -1,0 +1,15 @@
+📌 Guide No. 13: Patterns and numerical sequences
+Unit: Unit 2
+Chapter: Chapter 7 – Patterns (formation rules, prediction)
+
+🔹 Worked Learning Objective:
+- OA14: Discovering sequence rules and making predictions
+
+🔹 Activities:
+- Identification of numerical patterns in sequences
+- Calculation of the general term of sequences
+- Construction of value tables and generalization
+- Problems with input-output machines
+
+💡 Expected Assessment:
+Ability to recognize patterns, apply rules for subsequent terms, and represent simple algebraic expressions.

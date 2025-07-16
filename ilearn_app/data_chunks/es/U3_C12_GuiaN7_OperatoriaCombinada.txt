@@ -1,0 +1,35 @@
+📌 Ejercicio N°1
+Unidad: Unidad 1 – Problemas y números
+Capítulo: Operatoria combinada (uso de paréntesis, orden de operaciones)
+Guía: Nº7 (15–19 junio)
+Tipo: Problema contextualizado
+
+🔹 Enunciado:
+Tomás tiene $1 500 y su mamá le da el doble de ese monto. Gasta $1 200 de la mesada y ahorra el resto. ¿Cuánto dinero tiene ahorrado ahora?
+
+✅ Respuesta correcta:
+Mesada: 2×1 500 = 3 000  
+Gasta: 1 200  
+Ahorro: 1 500 + (3 000 – 1 200) = $3 300
+
+💡 Explicación esperada:
+El estudiante debe identificar correctamente las operaciones involucradas y respetar la jerarquía: primero multiplicación, luego resta y suma.
+
+---
+
+📌 Ejercicio N°2
+Unidad: Unidad 1 – Problemas y números
+Capítulo: Operatoria combinada
+Guía: Nº7 (15–19 junio)
+Tipo: Problema de comparación y proporcionalidad
+
+🔹 Enunciado:
+Cecilia empaquetó 97 cajas de leche. Gustavo empaquetó 49 cajas menos. Luego Cecilia empaqueta el triple de lo que había hecho Gustavo al principio. ¿Cuántas cajas empaquetó Cecilia en total?
+
+✅ Respuesta correcta:
+Gustavo: 97 – 49 = 48  
+Cecilia después: 48 × 3 = 144  
+Total Cecilia: 97 + 144 = 241 cajas
+
+💡 Explicación esperada:
+El estudiante debe organizar las operaciones paso a paso, usando correctamente resta, multiplicación y suma.

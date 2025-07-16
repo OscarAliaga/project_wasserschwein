@@ -1,0 +1,20 @@
+Exercise_1_Chapter_4
+
+Title: Converting length units
+
+Description: Observe the following lengths and convert them to the indicated unit.
+
+1. 3 meters = ________ centimeters
+2. 1.5 kilometers = ________ meters
+3. 200 millimeters = ________ centimeters
+4. 4.25 meters = ________ millimeters
+
+Analysis question:
+What pattern do you observe between the units you are converting? What do you need to do to go from a larger unit to a smaller one?
+
+Student instructions:
+- Use the unit conversion table.
+- Remember that:
+  - 1 meter = 100 centimeters
+  - 1 kilometer = 1,000 meters
+  - 1 centimeter = 10 millimeters

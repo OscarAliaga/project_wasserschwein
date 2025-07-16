@@ -1,0 +1,11 @@
+📌 Guía: Ejercicios Basales 6
+Unidad: Unidad 1 – Multiplicación
+Capítulo: Multiplicación por 2 dígitos (estrategias y algoritmo)
+
+🔹 Enunciados y actividades:
+- Multiplicaciones usando bloques multibase
+- Aplicación de propiedad distributiva
+- Estimación y verificación con calculadora
+
+💡 Evaluación esperada:
+Dominio de técnicas para multiplicar dos cifras, pensamiento estratégico y validación de resultados.

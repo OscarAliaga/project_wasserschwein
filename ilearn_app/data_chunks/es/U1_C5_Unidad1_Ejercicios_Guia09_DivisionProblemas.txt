@@ -1,0 +1,74 @@
+📌 Ejercicio N°1
+Unidad: Unidad 1 – Problemas y números
+Capítulo: División por 1 dígito
+Tema: División exacta y con resto
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+Alicia tiene 255 bombones, 128 caramelos y 315 galletas. Quiere hacer bolsas para venderlas.
+a) ¿Cuántas bolsas con 4 bombones puede hacer? ¿Sobran bombones?
+b) ¿Cuántas bolsas con 6 caramelos puede hacer? ¿Sobran caramelos?
+c) ¿Cuántas bolsas con 8 galletas puede hacer? ¿Sobran galletas?
+
+✅ Respuesta correcta:
+a) 255 ÷ 4 = 63 bolsas, sobran 3 bombones  
+b) 128 ÷ 6 = 21 bolsas, sobran 2 caramelos  
+c) 315 ÷ 8 = 39 bolsas, sobran 3 galletas
+
+💡 Explicación esperada (feedback):
+El estudiante debe aplicar división con divisores de un dígito, interpretar el cociente y el resto, y verificar usando multiplicación inversa.
+
+---
+
+📌 Ejercicio N°2
+Unidad: Unidad 1 – Problemas y números
+Capítulo: División por 1 dígito
+Tema: Reparto equitativo con restos
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+Un grupo de 135 jóvenes quiere hacer 8 equipos para una competencia de alianzas. ¿Cuántos jóvenes tendrá cada alianza? ¿Cuántos faltan para completar el equipo con menos integrantes?
+
+✅ Respuesta correcta:
+135 ÷ 8 = 16 por equipo, sobran 7 jóvenes. Faltan 1 para completar el 9.º equipo.
+
+💡 Explicación esperada (feedback):
+Se espera que el estudiante relacione el resto con la necesidad de agregar o equilibrar grupos para lograr igualdad.
+
+---
+
+📌 Ejercicio N°3
+Unidad: Unidad 1 – Problemas y números
+Capítulo: División por 1 dígito
+Tema: División en diferentes contextos
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+Una pastelería entrega 120 pasteles en un día.
+a) Si se envasan en bandejas de 3 unidades, ¿cuántas bandejas se necesitan?
+b) Si se envasan en bandejas de 6 unidades, ¿cuántas se requieren?
+
+✅ Respuesta correcta:
+a) 120 ÷ 3 = 40 bandejas  
+b) 120 ÷ 6 = 20 bandejas
+
+💡 Explicación esperada (feedback):
+El estudiante debe identificar cómo el cambio de la unidad de agrupación afecta la cantidad de contenedores requeridos.
+
+---
+
+📌 Ejercicio N°4
+Unidad: Unidad 1 – Problemas y números
+Capítulo: División por 1 dígito
+Tema: División con incógnita en el dividendo
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+Esteban tiene un cajón con 350 manzanas y una bolsa con otras pocas. Si quiere repartir sus manzanas entre 8 amigos, de modo que cada uno reciba igual cantidad, ¿cuántas manzanas debe agregar de su bolsa?
+
+✅ Respuesta correcta:
+350 ÷ 8 = 43 con resto 6. Faltan 2 manzanas para llegar a 44 iguales → necesita agregar 2 manzanas.
+
+💡 Explicación esperada (feedback):
+Este problema requiere interpretar el resto como la base para ajustar el total al múltiplo más cercano. Requiere pensamiento inverso.
+

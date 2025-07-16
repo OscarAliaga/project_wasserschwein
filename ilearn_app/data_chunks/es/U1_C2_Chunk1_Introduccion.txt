@@ -1,0 +1,13 @@
+📘 Unidad 1 – Capítulo 2: Multiplicación
+Eje temático: Números y Operaciones
+
+Objetivos de Aprendizaje:
+- OA 3: Demostrar que comprenden la multiplicación de números naturales:
+  • Aplicando estrategias de cálculo mental
+  • Usando propiedades de la multiplicación
+  • Utilizando algoritmos estándar y alternativos
+  • Estimando productos
+  • Resolviendo problemas en contextos reales
+
+Descripción general del capítulo:
+En este capítulo, los estudiantes profundizan en la multiplicación de números naturales, especialmente por decenas (20, 30, 40…) y por números de dos dígitos. Se presentan distintas estrategias para calcular productos, se promueve la estimación razonable y el uso del algoritmo convencional de forma progresiva.

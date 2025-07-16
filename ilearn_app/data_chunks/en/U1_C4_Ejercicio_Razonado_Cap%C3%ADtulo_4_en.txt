@@ -1,0 +1,10 @@
+Exercise_Reasoning_Chapter_4
+
+Problem:
+Convert 2.5 km to meters.
+
+Step-by-step solution:
+1 km = 1000 m → 2.5 km = 2.5 × 1000 = 2,500 meters
+
+Final answer:
+2.5 km is equivalent to 2,500 meters.

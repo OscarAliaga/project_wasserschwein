@@ -1,0 +1,11 @@
+📌 Guide: Average Data - Citizen Data
+Unit: Unit 4
+Chapter: Chapter 13 - Mean (average and contextual analysis)
+
+🔹 Contents:
+- Calculation of simple arithmetic average in real contexts: ages, expenses, votes
+- Interpretation of social data (security, human rights, electoral participation)
+- Use of tables for data recording and reflections
+
+💡 Expected Evaluation:
+Ability to apply the average in real problems, interpret data in a citizen context, and reflect on security and rights.

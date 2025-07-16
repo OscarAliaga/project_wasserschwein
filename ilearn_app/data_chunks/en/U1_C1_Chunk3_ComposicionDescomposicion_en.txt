@@ -1,0 +1,10 @@
+📂 Composition and Decomposition
+
+Explanation:
+Decomposing a number means expressing it as the sum of its place values. Composing is forming the number from those values.
+
+Example:
+345,210 = 300,000 + 40,000 + 5,000 + 200 + 10
+
+Activity (student):
+Complete the composition and decomposition tables with the given numbers. Then, create two new examples.

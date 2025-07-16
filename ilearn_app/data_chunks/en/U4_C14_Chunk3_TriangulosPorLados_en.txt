@@ -1,0 +1,12 @@
+📂 Classification of triangles by their sides
+
+Explanation:
+Triangles are classified according to the length of their sides:
+- Equilateral: three equal sides
+- Isosceles: two equal sides
+- Scalene: all sides different
+
+Activity:
+a) Draw one triangle of each type
+b) Measure the sides with a ruler and confirm the classification
+c) Observe structures in your environment that appear to have triangles and classify them

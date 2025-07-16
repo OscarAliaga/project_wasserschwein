@@ -1,0 +1,29 @@
+Exercise_1_Chapter_3
+
+Instruction:
+Ema, Sofía, and Matías use ribbons to decorate the gym. Ema used a 28 cm ribbon, Sofía used a 33 cm one, and Matías used a 26 cm one. Who used the longest ribbon? Who used the shortest?
+
+Objective:
+Compare lengths expressed in centimeters.
+
+Context:
+Decorating the school gym with ribbons.
+
+Suggested Strategy:
+Use a table to organize the data and make a direct comparison.
+
+---
+
+Exercise_2_Chapter_3
+
+Instruction:
+Sofía needs to cut 5 ribbons of 20 cm each. How many centimeters of ribbon does she need in total?
+
+Objective:
+Multiply to find a total length.
+
+Context:
+Using ribbon in decoration.
+
+Suggested Strategy:
+Represent the problem as repeated addition or multiplication: 5 × 20 = ?

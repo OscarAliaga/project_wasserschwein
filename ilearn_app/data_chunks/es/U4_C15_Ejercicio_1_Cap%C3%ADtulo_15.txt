@@ -1,0 +1,5 @@
+Ejercicio_1_Capítulo_15
+Resuelve la siguiente ecuación:
+x + 8 = 21
+a) ¿Qué número representa x?
+b) ¿Cómo verificas que el resultado es correcto?

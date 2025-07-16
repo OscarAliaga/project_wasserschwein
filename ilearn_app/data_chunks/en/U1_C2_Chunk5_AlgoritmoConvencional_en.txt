@@ -1,0 +1,20 @@
+📂 Conventional Multiplication Algorithm
+
+Explanation:
+The standard algorithm organizes the partial products of each digit of the second factor, adding them up correctly aligned according to their positional value.
+
+Example:
+  123
+×  45
+-----
+  615   (123 × 5)
++4920   (123 × 40)
+-----
+ 5535
+
+Activity:
+Solve using the algorithm:
+a) 234 × 12
+b) 321 × 23
+
+Verify your results with a calculator.

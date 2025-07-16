@@ -1,0 +1,15 @@
+📂 Interpretación del promedio en contextos reales
+
+Explicación:
+El promedio permite obtener un valor representativo, pero no muestra todas las características del conjunto (no indica variabilidad).
+
+Ejemplo:
+Un estudiante tiene estas calificaciones: 6, 4, 4  
+Media = 4,67  
+→ Aunque tiene una nota alta, el promedio no supera el 5.
+
+Actividad:
+a) Analiza esta situación:
+Tres amigos corren 100 m en 12 s, 14 s y 16 s. ¿Cuál es su promedio? ¿Qué tan justo es decir que "todos corren en 14 s"?
+
+b) Crea una situación con 5 datos y calcula su media

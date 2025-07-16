@@ -1,0 +1,7 @@
+Ejercicio_1_Capítulo_9
+Observa la siguiente tabla de datos sobre frutas favoritas de un curso:
+- Manzanas: 12 estudiantes
+- Plátanos: 8 estudiantes
+- Naranjas: 5 estudiantes
+a) ¿Cuál es la fruta más popular?
+b) ¿Qué porcentaje representa cada fruta?

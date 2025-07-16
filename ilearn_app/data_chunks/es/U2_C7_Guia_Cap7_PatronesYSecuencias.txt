@@ -1,0 +1,15 @@
+📌 Guía Nº13: Patrones y secuencias numéricas
+Unidad: Unidad 2
+Capítulo: Capítulo 7 – Patrones (reglas de formación, predicción)
+
+🔹 OA trabajado:
+- OA14: Descubrir reglas de sucesiones y hacer predicciones
+
+🔹 Actividades:
+- Identificación de patrones numéricos en sucesiones
+- Cálculo del término general de secuencias
+- Construcción de tablas de valores y generalización
+- Problemas con máquinas de entrada-salida
+
+💡 Evaluación esperada:
+Capacidad para reconocer patrones, aplicar reglas para términos siguientes, y representar expresiones algebraicas simples.

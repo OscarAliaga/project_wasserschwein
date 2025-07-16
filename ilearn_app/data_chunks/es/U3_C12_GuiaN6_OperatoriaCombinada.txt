@@ -1,0 +1,12 @@
+📌 Ejercicio N°1
+Unidad: Unidad 1 – Operatoria combinada
+Capítulo: Operatoria combinada (uso de paréntesis, orden de operaciones)
+Guía: Nº6
+Tipo: Ejercicios con 4 operaciones
+
+🔹 Enunciado:
+Resuelve expresiones con paréntesis, multiplicaciones y divisiones antes que sumas y restas, aplicando jerarquía de operaciones.
+
+💡 Explicación esperada:
+El estudiante debe respetar la prioridad de operadores y ser capaz de resolver ejercicios con múltiples pasos de forma organizada.
+

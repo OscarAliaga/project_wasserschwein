@@ -1,0 +1,13 @@
+📂 Patrones en contextos reales
+
+Situaciones:
+1. Cada semana, una planta crece 2 cm. Si en la semana 1 mide 5 cm, ¿cuánto medirá en la semana 4?
+2. Un taxi cobra $500 por el primer kilómetro y $200 por cada km adicional. ¿Cuál es el total a pagar por 3 km?
+
+Actividad:
+a) Construye una tabla que represente cada situación  
+b) Describe la regla de formación  
+c) Predice el resultado para un caso no dado (semana 6, 10 km)
+
+Reflexión:
+¿Por qué es útil encontrar patrones en la vida cotidiana (precios, tiempos, cantidades)?

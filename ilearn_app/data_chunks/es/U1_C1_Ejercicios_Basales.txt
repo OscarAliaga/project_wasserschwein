@@ -1,0 +1,57 @@
+📌 Ejercicio N°1
+Unidad: Unidad 1 – Aprendizajes Basales
+Capítulo: Valor posicional
+Tema: Notación expandida y valor de los dígitos
+Tipo: Desarrollo
+
+🔹 Enunciado:
+Explique:
+a) ¿Por qué el valor de 8 en 768 946 es 8 000?
+b) ¿Por qué las formas expandidas de 87 560 y de 87 650 son distintas?
+
+✅ Respuesta correcta:
+a) Porque el 8 está en la posición de las unidades de mil.
+b) Porque las unidades y decenas cambian, lo que altera la forma expandida.
+
+💡 Explicación esperada (feedback):
+Debe demostrar comprensión del valor posicional de cada dígito y cómo este afecta la forma expandida del número.
+
+---
+
+📌 Ejercicio N°2
+Unidad: Unidad 1 – Aprendizajes Basales
+Capítulo: Valor posicional
+Tema: Representación en tabla y formas numéricas
+Tipo: Desarrollo
+
+🔹 Enunciado:
+Represente en la tabla de valor de posición el número 45 678 001. Use esta representación para escribir este número en:
+a) Palabras
+b) Forma expandida
+
+✅ Respuesta correcta:
+a) Cuarenta y cinco millones seiscientos setenta y ocho mil uno.
+b) 40 000 000 + 5 000 000 + 600 000 + 70 000 + 8 000 + 0 + 0 + 0 + 1
+
+💡 Explicación esperada (feedback):
+Se espera que el estudiante sepa descomponer correctamente en cada categoría posicional y transformar a lenguaje verbal.
+
+---
+
+📌 Ejercicio N°3
+Unidad: Unidad 1 – Aprendizajes Basales
+Capítulo: Valor posicional
+Tema: Comparación y números intermedios
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+a) ¿Cuántos números hay entre 6 708 910 y 6 707 910?
+b) ¿Cuál debe ser el número que va en ___ para que entre 5 798 184 y ___ se puedan intercalar 15 números?
+
+✅ Respuesta correcta:
+a) 999 números
+b) El número debe ser 5 798 200
+
+💡 Explicación esperada (feedback):
+El estudiante debe razonar con incrementos de 1 y contar correctamente los valores intermedios. En el caso b, se espera que comprenda la idea de sucesión numérica y distancia entre valores.
+

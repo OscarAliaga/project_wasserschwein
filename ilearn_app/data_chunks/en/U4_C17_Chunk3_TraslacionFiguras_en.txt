@@ -1,0 +1,12 @@
+📂 Translation of Figures
+
+Explanation:
+Translation is a movement of a figure without rotating or deforming it. It moves a distance in a straight line in one direction.
+
+Example:
+Moving a triangle 3 squares to the right and 2 down on a grid plane.
+
+Activity:
+a) Draw a figure on grid paper
+b) Perform a translation of 2 units to the left and 3 up
+c) Describe the movements using coordinates (x, y)

@@ -1,0 +1,6 @@
+📂 Evaluación formativa
+
+Propuesta (Guía Docente):
+- Ejercicios para que los estudiantes identifiquen el valor posicional subrayado en una cifra.
+- Desafío: escribir con cifras un número dicho oralmente.
+- Crear un número con determinadas condiciones (ej: que tenga un 4 en el lugar de las centenas de mil).

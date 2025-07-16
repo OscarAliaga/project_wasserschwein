@@ -1,0 +1,12 @@
+📂 Traslación de figuras
+
+Explicación:
+La traslación es un desplazamiento de una figura sin girarla ni deformarla. Se mueve una distancia en línea recta en una dirección.
+
+Ejemplo:
+Mover un triángulo 3 cuadros hacia la derecha y 2 hacia abajo en un plano cuadriculado.
+
+Actividad:
+a) Dibuja una figura en papel cuadriculado  
+b) Realiza una traslación de 2 unidades a la izquierda y 3 hacia arriba  
+c) Describe los movimientos usando coordenadas (x, y)

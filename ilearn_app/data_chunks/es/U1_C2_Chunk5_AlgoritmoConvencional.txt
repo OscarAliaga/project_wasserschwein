@@ -1,0 +1,20 @@
+📂 Algoritmo convencional de la multiplicación
+
+Explicación:
+El algoritmo estándar organiza los productos parciales de cada cifra del segundo factor, sumándolos correctamente alineados según su valor posicional.
+
+Ejemplo:
+  123
+×  45
+-----
+  615   (123 × 5)
++4920   (123 × 40)
+-----
+ 5535
+
+Actividad:
+Resuelve usando el algoritmo:
+a) 234 × 12
+b) 321 × 23
+
+Verifica tus resultados con la calculadora.

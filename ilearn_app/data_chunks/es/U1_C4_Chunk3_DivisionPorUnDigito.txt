@@ -1,0 +1,16 @@
+📂 División por un dígito
+
+Explicación:
+Cuando el divisor es de un solo dígito, se puede resolver mediante:
+- Descomposición del dividendo
+- Uso de la tabla de multiplicar
+- Estimaciones progresivas
+
+Ejemplo:
+234 ÷ 3 → Se analiza cuántas veces cabe el 3 en cada cifra del dividendo
+
+Actividad:
+Resuelve las siguientes divisiones:
+a) 456 ÷ 3
+b) 528 ÷ 6
+c) 372 ÷ 4

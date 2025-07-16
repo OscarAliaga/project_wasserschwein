@@ -1,0 +1,17 @@
+📂 Common Mistakes and Strategies
+
+Common mistakes:
+- Omitting the zero in the quotient, for example: 607 ÷ 6 → writing 11 instead of 101.
+- Not aligning the digits correctly in the algorithm.
+
+Strategies to avoid mistakes:
+- Verify each step with inverse multiplication.
+- Use diagrams or tables to represent the process.
+- Read each step of the division out loud.
+
+Activity:
+Compare the results of:
+a) 804 ÷ 4 (correct)
+b) 804 ÷ 4 (zero omitted)
+
+What is the difference? Why is that zero important?

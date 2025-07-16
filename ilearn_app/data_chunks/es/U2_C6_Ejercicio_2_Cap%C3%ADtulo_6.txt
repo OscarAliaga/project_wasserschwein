@@ -1,0 +1,6 @@
+Ejercicio_2_Capítulo_6
+Resta los siguientes números decimales:
+a) 5,78 – 2,13 =
+b) 6,9 – 3,4 =
+c) 10,05 – 4,8 =
+Verifica si el resultado tiene sentido según el valor aproximado de cada número.

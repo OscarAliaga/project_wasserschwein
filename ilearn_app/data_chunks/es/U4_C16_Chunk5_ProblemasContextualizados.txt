@@ -1,0 +1,10 @@
+📂 Problemas contextualizados
+
+Situaciones:
+1. La temperatura bajó de 3°C a -2°C. ¿Cuánto descendió?  
+2. Un submarino se encuentra a -50 m. Otro está a -30 m. ¿Cuál está más profundo?
+
+Actividad:
+a) Representa gráficamente cada situación  
+b) Ordena los niveles: nivel del mar, -10 m, -5 m, +2 m  
+c) Crea una historia usando al menos 3 números negativos y represéntala en una recta numérica

@@ -1,0 +1,14 @@
+📂 Representación en la recta numérica
+
+Explicación:
+La recta numérica permite visualizar los números negativos como ubicados a la izquierda del cero.
+
+Ejemplo:
+... -3 -2 -1 0 1 2 3 ...
+
+Entre más a la derecha, mayor es el número.
+
+Actividad:
+a) Dibuja una recta numérica del -10 al 10  
+b) Ubica los siguientes números: -8, -3, 0, 2, 6  
+c) ¿Qué números están entre -5 y 3?

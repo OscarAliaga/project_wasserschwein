@@ -1,0 +1,11 @@
+📂 Application in geometric figures and shapes
+
+Explanation:
+In flat figures such as rectangles, squares, and trapezoids, pairs of parallel or perpendicular sides can be identified.
+
+In solid shapes such as cubes, prisms, and parallelepipeds, these relationships between edges can also be found.
+
+Activity:
+a) Mark pairs of parallel and perpendicular edges on a cube  
+b) In a trapezoid, identify which sides are parallel and which are not  
+c) Build a 3D model using sticks or cardboard and identify geometric relationships

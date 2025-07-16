@@ -1,0 +1,13 @@
+📂 Identification of perpendicular lines
+
+Explanation:
+Two lines are perpendicular if they intersect to form a right angle (90°).
+
+Examples:
+- Corners of a sheet of paper
+- X and Y axes in the Cartesian plane
+
+Activity:
+a) Draw two perpendicular lines using a set square
+b) Identify examples of perpendicular lines in real objects (doors, windows)
+c) Mark the perpendicular intersections in a right triangle

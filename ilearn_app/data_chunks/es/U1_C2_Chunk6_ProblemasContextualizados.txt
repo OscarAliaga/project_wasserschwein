@@ -1,0 +1,12 @@
+📂 Problemas contextualizados
+
+Situaciones:
+1. Una caja tiene 28 lápices. ¿Cuántos lápices hay en 36 cajas?
+2. Un bus transporta a 47 estudiantes por viaje. ¿Cuántos estudiantes transporta en 15 viajes?
+3. Cada carpeta vale $1450. ¿Cuánto costarán 24 carpetas?
+
+Actividad:
+Resuelve los problemas aplicando multiplicación. Estima primero el resultado y luego verifica usando el algoritmo.
+
+Reflexión:
+¿En qué situaciones de tu vida cotidiana usas la multiplicación para resolver problemas?

@@ -1,0 +1,13 @@
+📂 Identificación de líneas paralelas
+
+Explicación:
+Dos líneas son paralelas si mantienen la misma distancia entre ellas y nunca se cruzan, aunque se prolonguen.
+
+Ejemplos:
+- Lados opuestos de un rectángulo
+- Rieles de tren
+
+Actividad:
+a) Dibuja un rectángulo y marca los lados paralelos  
+b) Observa tu sala de clases y busca estructuras paralelas (ej: bordes de la pizarra)  
+c) Usa una regla para verificar si dos líneas son paralelas

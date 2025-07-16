@@ -1,0 +1,7 @@
+Exercise_2_Chapter_9
+Read the following bar graph about the books read in the month:
+- January: 10 books
+- February: 15 books
+- March: 5 books
+a) In which month were the most books read?
+b) How many books were read in total?

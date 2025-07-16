@@ -1,0 +1,14 @@
+📂 Angle concept and types
+
+Explanation:
+An angle is the opening between two rays that originate from a common point (vertex).
+
+Types of angles:
+- Acute: less than 90°
+- Right: exactly 90°
+- Obtuse: greater than 90° and less than 180°
+
+Activity:
+a) Draw an angle of each type
+b) Use a protractor to measure angles in surrounding figures
+c) Classify the following angles: 45°, 90°, 135°

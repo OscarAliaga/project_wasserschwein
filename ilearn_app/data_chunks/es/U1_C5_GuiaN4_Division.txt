@@ -1,0 +1,12 @@
+📌 Ejercicio N°1
+Unidad: Unidad 1 – División
+Capítulo: División por 1 dígito, cociente con ceros
+Guía: Nº4
+Tipo: Resolución con representación concreta
+
+🔹 Enunciado:
+Resuelve situaciones de reparto usando bloques base 10 y aplica el algoritmo de división con interpretación del cociente y resto.
+
+💡 Explicación esperada:
+El estudiante debe repartir en partes iguales una cantidad, explicar los pasos de la división larga y justificar por qué no se puede fraccionar una persona en contextos reales.
+

@@ -1,0 +1,10 @@
+📂 Problemas contextualizados
+
+Situaciones:
+1. Un logotipo debe ser simétrico respecto a un eje vertical. ¿Cómo se puede comprobar?  
+2. Una figura debe trasladarse 5 unidades hacia abajo. ¿Cuál es su nueva posición?
+
+Actividad:
+a) Reproduce una figura y marca su imagen tras aplicar una traslación  
+b) Identifica en el entorno al menos 3 elementos que tengan simetría axial  
+c) Explica cómo se usan estas transformaciones en diseño, arte o arquitectura

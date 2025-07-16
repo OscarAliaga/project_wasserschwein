@@ -1,0 +1,11 @@
+📌 Exercise No. 1
+Unit: Unit 1 - Combined Operations
+Chapter: Combined Operations (use of parentheses, order of operations)
+Guide: No. 6
+Type: Exercises with 4 operations
+
+🔹 Statement:
+Solve expressions with parentheses, multiplications, and divisions before additions and subtractions, applying the order of operations.
+
+💡 Expected Explanation:
+The student must respect the priority of operators and be able to solve exercises with multiple steps in an organized manner.

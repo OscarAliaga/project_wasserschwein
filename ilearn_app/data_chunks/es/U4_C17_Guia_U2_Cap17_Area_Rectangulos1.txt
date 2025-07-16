@@ -1,0 +1,16 @@
+📌 Guía: Unidad 2 – Área – Parte 1
+Unidad: Unidad 2
+Capítulo: Capítulo 17 – Área (rectángulos, triángulos, paralelogramos, figuras irregulares)
+
+🔹 OA trabajados:
+- OA21: Diseñar y construir rectángulos dados el perímetro o el área
+- OA_l: Representar información en diagramas
+- OA_e: Comprobar reglas y propiedades
+
+🔹 Actividades:
+- Construcción de rectángulos con perímetro fijo
+- Comparación de áreas resultantes
+- Deducción de conclusiones sobre la relación forma-área
+
+💡 Evaluación esperada:
+Habilidad para construir y analizar rectángulos de igual perímetro, extraer conclusiones geométricas y aplicar conceptos de área.

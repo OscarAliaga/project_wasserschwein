@@ -1,0 +1,15 @@
+📂 Reading and interpreting data
+
+Explanation:
+Reading graphs allows you to answer questions about the data, identify patterns, and make decisions. It is important to observe axes, titles, and legends.
+
+Example:
+In a bar graph of monthly sales:
+- In which month were the most sales made?
+- What was the difference between the best and worst month?
+
+Activity:
+Observe the following graph (to be constructed in class):
+a) Which category has the highest frequency?
+b) What can you infer from the change between two days?
+c) Could you predict the outcome of the next day?

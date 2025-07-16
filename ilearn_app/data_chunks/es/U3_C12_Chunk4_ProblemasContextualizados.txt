@@ -1,0 +1,13 @@
+📂 Problemas contextualizados
+
+Situaciones:
+1. En una caja hay 4 grupos de 6 lápices. Si se reparten 5, ¿cuántos quedan?
+→ (4 × 6) - 5
+
+2. Un niño compra 3 jugos a $250 cada uno y una galleta de $400. ¿Cuánto gasta?
+→ (3 × 250) + 400
+
+Actividad:
+a) Escribe la expresión numérica para cada problema  
+b) Resuélvelas aplicando correctamente la jerarquía de operaciones  
+c) Crea un problema similar con al menos dos operaciones distintas

@@ -1,0 +1,50 @@
+📌 Ejercicio N°1
+Unidad: Unidad 1 – División
+Capítulo: División por 1 dígito
+Tema: Reparto con cociente y resto
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+Tres estudiantes están vendiendo naranjas para recaudar dinero. Recibieron un pedido de 137 naranjas que deben repartir en partes iguales. Cada uno de ellos las guarda en su canasta.
+¿Cuántas naranjas tendrá cada estudiante en su canasta? ¿Sobran naranjas?
+
+✅ Respuesta correcta:
+137 ÷ 3 = 45 con resto 2
+
+💡 Explicación esperada (feedback):
+Se espera que el estudiante aplique correctamente el algoritmo de la división con divisor de un dígito, interprete el cociente como la cantidad de naranjas por canasta y el resto como las que no se pueden repartir equitativamente.
+
+---
+
+📌 Ejercicio N°2
+Unidad: Unidad 1 – División
+Capítulo: División por 1 dígito
+Tema: Aplicación en situaciones escolares
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+La profesora Ana tiene 184 lápices y los repartirá en partes iguales entre 6 grupos. ¿Cuántos lápices debe entregar a cada grupo? ¿Quedarán lápices sin repartir?
+
+✅ Respuesta correcta:
+184 ÷ 6 = 30 con resto 4
+
+💡 Explicación esperada (feedback):
+El estudiante debe identificar el dividendo (184), el divisor (6), calcular el cociente (30) y el resto (4), y elaborar una respuesta completa contextualizada.
+
+---
+
+📌 Ejercicio N°3
+Unidad: Unidad 1 – División y Mitades
+Capítulo: División por 1 dígito
+Tema: División exacta en dos partes
+Tipo: Desarrollo
+
+🔹 Enunciado:
+El profesor pidió a Marcela pintar la mitad de los bloques del recuadro de color azul y la otra mitad de verde. Luego debe realizar la operación matemática que permite calcular cuántos cubos serán azules.
+
+✅ Respuesta correcta:
+Cantidad total ÷ 2 = Cantidad de cubos azules
+
+💡 Explicación esperada (feedback):
+Este ejercicio busca reforzar el sentido de dividir en dos partes iguales, promoviendo la comprensión de división exacta como repartición equitativa.
+

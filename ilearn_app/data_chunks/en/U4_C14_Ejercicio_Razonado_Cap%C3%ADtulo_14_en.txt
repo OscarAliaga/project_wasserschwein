@@ -1,0 +1,11 @@
+Reasoned Exercise_Chapter 14
+
+Problem:
+Does a figure rotated 180° maintain congruence?
+
+Step-by-step resolution:
+1. Rotation does not change the size or shape.
+2. It only changes the orientation.
+
+Final answer:
+Yes, it maintains congruence.

@@ -1,0 +1,4 @@
+Ejercicio_1_Capítulo_14
+Dibuja un triángulo equilátero y realiza una reflexión horizontal.
+a) ¿La figura reflejada es congruente?
+b) Justifica tu respuesta con una comparación de lados y ángulos.

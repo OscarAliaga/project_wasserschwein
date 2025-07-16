@@ -1,0 +1,5 @@
+Exercise_2_Chapter_7
+Complete the sequence applying the formation rule:
+3, 6, __, 12, __, 18, __
+a) What operation did you apply to find each term?
+b) Describe in your own words the pattern rule.

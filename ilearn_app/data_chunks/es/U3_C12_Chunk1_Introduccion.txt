@@ -1,0 +1,8 @@
+📘 Unidad 3 – Capítulo 12: Operatoria combinada
+Eje temático: Números y Operaciones
+
+Objetivos de Aprendizaje:
+- OA 2: Aplicar la jerarquía de operaciones en cálculos que combinan adición, sustracción, multiplicación y división, incluyendo el uso de paréntesis
+
+Descripción general:
+Este capítulo desarrolla la capacidad de resolver expresiones matemáticas con más de una operación, respetando la jerarquía: primero paréntesis, luego multiplicación/división y finalmente suma/resta. Se presentan estrategias para organizar los cálculos y se refuerza la importancia del orden al resolver problemas.

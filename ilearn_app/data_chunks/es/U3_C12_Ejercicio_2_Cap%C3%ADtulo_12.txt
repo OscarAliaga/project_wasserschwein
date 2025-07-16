@@ -1,0 +1,5 @@
+Ejercicio_2_Capítulo_12
+Resuelve estas expresiones con paréntesis:
+a) (8 + 2) × (6 – 3) =
+b) 4 + [5 × (2 + 1)] =
+c) [(10 – 2) + 3] × 2 =

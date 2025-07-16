@@ -1,0 +1,5 @@
+Exercise_2_Chapter_15
+Solve this inequality:
+x - 3 < 7
+a) What possible values can x have?
+b) Represent your answers on a number line.

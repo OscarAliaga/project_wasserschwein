@@ -1,0 +1,14 @@
+📂 Concepto y contextos de uso de los números negativos
+
+Explicación:
+Los números negativos se usan para representar cantidades menores a cero. Se escriben con un signo menos (-) antes del número.
+
+Ejemplos:
+- Temperatura: -3°C  
+- Altura: -10 m bajo el nivel del mar  
+- Dinero: -$500 indica una deuda
+
+Actividad:
+a) Describe una situación donde se use un número negativo  
+b) Ordena: -5, 3, -1, 0, 4  
+c) ¿Qué es mayor: -3 o -7?

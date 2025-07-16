@@ -1,0 +1,11 @@
+Exercise_Reasoned_Chapter_3
+
+Problem:
+Each ribbon measures 45 cm. If Sofia used 3 ribbons, how many centimeters did she use in total?
+
+Step-by-step solution:
+1. We multiply: 45 × 3 = 135 cm
+2. We verify with repeated addition: 45 + 45 + 45 = 135
+
+Final answer:
+Sofia used 135 cm of ribbon.

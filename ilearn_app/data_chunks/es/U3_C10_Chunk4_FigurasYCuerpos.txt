@@ -1,0 +1,11 @@
+📂 Aplicación en figuras geométricas y cuerpos
+
+Explicación:
+En figuras planas como rectángulos, cuadrados y trapecios se pueden identificar pares de lados paralelos o perpendiculares.
+
+En cuerpos como cubos, prismas y paralelepípedos también se encuentran estas relaciones entre aristas.
+
+Actividad:
+a) Marca en un cubo los pares de aristas paralelas y perpendiculares  
+b) En un trapecio, identifica qué lados son paralelos y cuáles no  
+c) Construye un modelo 3D con palitos o cartón e identifica relaciones geométricas

@@ -1,0 +1,14 @@
+Ejercicio_2_Capítulo_4
+
+Título: Problemas con unidades de longitud
+
+Descripción: Resuelve los siguientes problemas aplicando lo aprendido sobre medidas de longitud.
+
+1. Sofía corrió 2,3 km por la mañana y 1,7 km por la tarde. ¿Cuántos metros corrió en total durante el día?
+2. Una cinta mide 350 centímetros. Si se corta en pedazos de 70 centímetros cada uno, ¿cuántos pedazos iguales se pueden hacer?
+3. Juan necesita unir dos tablas. Una mide 125 cm y la otra 1,45 m. ¿Cuál es la longitud total de la tabla unida, en metros?
+
+Pregunta de análisis:
+¿Cuándo te conviene usar metros en vez de centímetros o milímetros? Explica con tus palabras.
+
+Consejo: Antes de resolver, transforma todas las longitudes a la misma unidad para que sea más fácil operar.

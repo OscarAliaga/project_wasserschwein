@@ -1,0 +1,12 @@
+📘 Unit 1 - Chapter 1: Large Numbers
+Thematic Axis: Numbers and Operations
+
+Learning Objectives:
+- LO 1: Represent and describe natural numbers up to more than 6 digits and less than 1 billion:
+  • Identify the positional value of digits
+  • Compose and decompose numbers
+  • Compare and order numbers
+  • Relate numbers to real contexts
+
+Chapter Overview:
+In this chapter, students learn to represent, compose, and decompose natural numbers up to 9 digits (999,999,999). The positional value of the digits is worked on, and the comparison and ordering of numbers are practiced. It is contextualized with everyday situations, such as country populations, distances, or industrial production.

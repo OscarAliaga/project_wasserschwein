@@ -1,0 +1,11 @@
+Ejercicio_Razonado_Capítulo_11
+
+Problema:
+Una bolsa tiene 3 bolas rojas y 2 verdes. ¿Cuál es la probabilidad de sacar una bola verde?
+
+Resolución paso a paso:
+1. Total de bolas: 3 + 2 = 5
+2. Probabilidad: 2 verdes de 5 = 2/5
+
+Respuesta final:
+La probabilidad es 2/5.

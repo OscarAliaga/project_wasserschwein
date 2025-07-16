@@ -1,0 +1,11 @@
+📌 Exercise #1
+Unit: Unit 1 - Division
+Chapter: Division by 1 digit, quotient with zeros
+Guide: No. 4
+Type: Resolution with concrete representation
+
+🔹 Statement:
+Solve sharing situations using base 10 blocks and apply the division algorithm with interpretation of the quotient and remainder.
+
+💡 Expected Explanation:
+The student must distribute an amount equally, explain the steps of long division, and justify why a person cannot be divided into fractions in real contexts.

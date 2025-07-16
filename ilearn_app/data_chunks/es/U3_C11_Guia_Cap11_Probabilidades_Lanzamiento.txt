@@ -1,0 +1,11 @@
+📌 Guía: Aprendizajes Basales 1 – Probabilidad con dados
+Unidad: Unidad 4
+Capítulo: Capítulo 11 – Probabilidades (eventos posibles, imposibles)
+
+🔹 Contenidos:
+- Comparación de probabilidades de eventos sin calcular
+- Observación de frecuencias relativas a lanzamientos de dados
+- Juegos con dados para evaluar la menor probabilidad de suma
+
+💡 Evaluación esperada:
+Comparan eventos con juicio razonado, verifican sus suposiciones mediante experimentación, y registran resultados para reflexionar.

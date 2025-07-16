@@ -1,0 +1,11 @@
+Exercise_Reasoning_Chapter_11
+
+Problem:
+A bag contains 3 red balls and 2 green balls. What is the probability of drawing a green ball?
+
+Step-by-step solution:
+1. Total number of balls: 3 + 2 = 5
+2. Probability: 2 green out of 5 = 2/5
+
+Final answer:
+The probability is 2/5.

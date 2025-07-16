@@ -1,0 +1,4 @@
+Exercise_2_Chapter_13
+In a survey, 4 people said they walk 2 km per day, 3 said they walk 4 km, and 3 people walked 6 km.
+a) What is the average number of kilometers walked per person?
+b) What can you conclude from that result?

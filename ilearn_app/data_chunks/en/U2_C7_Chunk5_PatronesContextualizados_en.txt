@@ -1,0 +1,13 @@
+📂 Patterns in Real-Life Contexts
+
+Scenarios:
+1. Every week, a plant grows by 2 cm. If it measures 5 cm in week 1, how long will it be in week 4?
+2. A taxi charges $500 for the first kilometer and $200 for each additional kilometer. What is the total fare for 3 km?
+
+Activity:
+a) Create a table representing each scenario
+b) Describe the pattern formation rule
+c) Predict the outcome for an unspecified case (week 6, 10 km)
+
+Reflection:
+Why is it useful to find patterns in everyday life (prices, times, quantities)?

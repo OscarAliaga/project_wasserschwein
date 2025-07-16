@@ -1,0 +1,10 @@
+📂 Composición y descomposición
+
+Explicación:
+Descomponer un número significa expresarlo como suma de sus valores posicionales. Componer es formar el número a partir de esos valores.
+
+Ejemplo:
+345.210 = 300.000 + 40.000 + 5.000 + 200 + 10
+
+Actividad (estudiante):
+Completa las tablas de composición y descomposición con los números dados. Luego, crea dos ejemplos nuevos.

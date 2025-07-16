@@ -1,0 +1,12 @@
+📂 Representación de números decimales
+
+Explicación:
+Los números decimales representan valores menores que la unidad o intermedios entre números naturales. Se expresan con una coma decimal y pueden representarse con dibujos, fracciones o en la recta numérica.
+
+Ejemplo:
+- 0,1 = 1/10
+- 0,25 = 25/100
+
+Actividad:
+a) Representa en una recta numérica los siguientes decimales: 0,2 – 0,5 – 0,8  
+b) Escribe el número decimal correspondiente a las fracciones: 3/10, 1/4, 7/100

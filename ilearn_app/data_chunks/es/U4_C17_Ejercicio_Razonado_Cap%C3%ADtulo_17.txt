@@ -1,0 +1,11 @@
+Ejercicio_Razonado_Capítulo_17
+
+Problema:
+Calcula el área de un triángulo de base 10 cm y altura 6 cm.
+
+Resolución paso a paso:
+1. Fórmula: (base × altura) ÷ 2
+2. Cálculo: (10 × 6) ÷ 2 = 60 ÷ 2 = 30 cm²
+
+Respuesta final:
+El área es 30 cm².

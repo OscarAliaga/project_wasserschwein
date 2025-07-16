@@ -1,0 +1,9 @@
+📘 Unidad 1 – Capítulo 3: Medición de Longitud – "Haciendo cintas"
+Eje temático: Geometría y Medición
+
+Objetivos de Aprendizaje:
+- OA 12: Medir, estimar y registrar longitudes en milímetros, centímetros, metros y kilómetros
+- OA 13: Resolver problemas que involucran conversión de unidades de longitud
+
+Descripción general del capítulo:
+Este capítulo introduce la medición de longitud en unidades del sistema métrico. Se busca que los estudiantes comprendan el uso de diferentes instrumentos (regla, huincha), reconozcan equivalencias entre unidades y apliquen el conocimiento a contextos reales como medir cintas, recorridos o estructuras.

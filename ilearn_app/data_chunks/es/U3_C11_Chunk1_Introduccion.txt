@@ -1,0 +1,8 @@
+📘 Unidad 3 – Capítulo 11: Probabilidades
+Eje temático: Datos y Azar
+
+Objetivos de Aprendizaje:
+- OA 17: Identificar y describir eventos como seguros, posibles o imposibles, en experimentos aleatorios simples
+
+Descripción general:
+Este capítulo introduce la noción de probabilidad como una herramienta para describir qué tan probable es que ocurra un evento. Se utilizan juegos, ruletas, dados y otras situaciones cotidianas para analizar y clasificar eventos en seguros, posibles o imposibles. Se promueve la argumentación de los estudiantes a partir de sus observaciones y predicciones.

@@ -1,0 +1,24 @@
+📂 Identificación y explicación de la regla de formación
+
+Explicación:
+Para descubrir la regla de un patrón, se observa cómo cambia una cantidad al pasar de un término al siguiente. La regla puede ser:
+- Aditiva (suma o resta)
+- Multiplicativa (multiplica o divide)
+
+Ejemplo:
+| Entrada | Salida |
+|---------|--------|
+| 1       | 3      |
+| 2       | 6      |
+| 3       | 9      |
+Regla: multiplicar por 3
+
+Actividad:
+a) Determina la regla para esta tabla:
+| Entrada | Salida |
+|---------|--------|
+| 1       | 5      |
+| 2       | 10     |
+| 3       | ___    |
+
+b) ¿Cuál sería la salida para entrada = 6?

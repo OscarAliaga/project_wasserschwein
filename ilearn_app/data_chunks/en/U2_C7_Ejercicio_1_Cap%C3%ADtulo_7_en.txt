@@ -1,0 +1,5 @@
+Exercise_1_Chapter_7
+Look at the following sequence: 2, 5, 8, 11, ...
+a) What is the pattern rule?
+b) Write the next three numbers in the sequence.
+c) What will be the number at position 10?

@@ -1,0 +1,17 @@
+📂 Multiplication Strategies
+
+Explanation:
+There are various strategies for multiplication, such as:
+- Additive decomposition: 34 × 12 = (30 + 4) × 12 = 30×12 + 4×12
+- Use of area: Graphically represent rectangles with length and width according to the factors
+- Use of commutative and distributive properties
+
+Worked example:
+27 × 14 = (20 + 7) × 14 = (20 × 14) + (7 × 14) = 280 + 98 = 378
+
+Suggested activity:
+Apply two different strategies to solve:
+a) 23 × 15
+b) 46 × 12
+
+Discuss which one was simpler and why.

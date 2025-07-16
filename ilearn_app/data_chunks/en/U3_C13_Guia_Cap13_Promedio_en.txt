@@ -1,0 +1,15 @@
+📌 Guide: Basic Learnings Unit 3 - Averages
+Unit: Unit 3
+Chapter: Chapter 13 - Mean (average and contextual analysis)
+
+🔹 Worked Learning Objectives:
+- LO23: Calculate the average of data in problem contexts
+- LO_a / LO_b / LO_e: Recognize essential data, solve problems, verify rules
+
+🔹 Activities:
+- Calculation of grade averages
+- Adjustments to the average with new weighted grades
+- Final average considering duplicated grade
+
+💡 Expected Assessment:
+Use of simple and weighted arithmetic averages, ability to reason about the effect of a new data point, and accurately represent the final calculation.

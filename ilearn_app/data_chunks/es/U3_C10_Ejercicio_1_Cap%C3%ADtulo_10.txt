@@ -1,0 +1,4 @@
+Ejercicio_1_Capítulo_10
+Dibuja dos líneas rectas que se crucen formando ángulos rectos.
+a) ¿Estas líneas son perpendiculares?
+b) ¿Cómo puedes comprobarlo?

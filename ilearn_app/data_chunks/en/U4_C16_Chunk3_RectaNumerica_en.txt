@@ -1,0 +1,14 @@
+📂 Representation on the number line
+
+Explanation:
+The number line allows us to visualize negative numbers as located to the left of zero.
+
+Example:
+... -3 -2 -1 0 1 2 3 ...
+
+The further to the right, the greater the number.
+
+Activity:
+a) Draw a number line from -10 to 10  
+b) Place the following numbers: -8, -3, 0, 2, 6  
+c) What numbers are between -5 and 3?

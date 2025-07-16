@@ -1,0 +1,23 @@
+📂 Tablas y relaciones entre cantidades
+
+Explicación:
+Una tabla ayuda a organizar y analizar cómo cambian dos cantidades relacionadas. Se puede identificar una regla matemática que vincula ambas columnas.
+
+Ejemplo:
+| Días | Frutas |
+|------|--------|
+| 1    | 2      |
+| 2    | 4      |
+| 3    | 6      |
+Regla: multiplicar días × 2
+
+Actividad:
+a) Completa la tabla:
+| Días | Libros leídos |
+|------|----------------|
+| 1    | 3              |
+| 2    | ___            |
+| 3    | ___            |
+Regla: ___
+
+b) ¿Cuántos libros leerá en 5 días?

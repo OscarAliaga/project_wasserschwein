@@ -1,0 +1,11 @@
+📌 Guía: Promedio de datos – Datos ciudadanos
+Unidad: Unidad 4
+Capítulo: Capítulo 13 – Media (promedio y análisis contextual)
+
+🔹 Contenidos:
+- Cálculo de promedio aritmético simple en contextos reales: edades, gastos, votaciones
+- Interpretación de datos sociales (seguridad, derechos humanos, participación electoral)
+- Uso de tablas para registro de datos y reflexiones
+
+💡 Evaluación esperada:
+Capacidad de aplicar el promedio en problemas reales, interpretar datos en contexto ciudadano y reflexionar sobre seguridad y derechos.

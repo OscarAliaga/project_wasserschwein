@@ -1,0 +1,13 @@
+📂 Addition and Subtraction of Decimal Numbers
+
+Explanation:
+To add or subtract decimals, align the numbers by the decimal point. If necessary, add zeros to make the same number of decimal places.
+
+Example:
+1.25 + 0.8 → write as 1.25 + 0.80 = 2.05
+
+Activity:
+a) 2.3 + 1.25 =  
+b) 3.7 - 2.45 =  
+c) 0.95 + 0.6 =  
+d) 1.25 - 0.75 =

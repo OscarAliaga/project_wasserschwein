@@ -1,0 +1,29 @@
+Ejercicio_3_Capítulo_3
+
+Instrucción:
+Matías usó una cinta de 45 cm y la dividió en 3 partes iguales. ¿Cuánto mide cada parte?
+
+Objetivo:
+Dividir una longitud total en partes iguales.
+
+Contexto:
+División de material decorativo.
+
+Estrategia sugerida:
+División: 45 ÷ 3 = ?
+
+---
+
+Ejercicio_4_Capítulo_3
+
+Instrucción:
+Ema y Sofía juntaron sus cintas. Ema usó una cinta de 28 cm y Sofía una de 33 cm. ¿Cuántos centímetros suman entre ambas?
+
+Objetivo:
+Sumar longitudes.
+
+Contexto:
+Cálculo del total de cinta utilizada.
+
+Estrategia sugerida:
+Suma directa: 28 + 33 = ?

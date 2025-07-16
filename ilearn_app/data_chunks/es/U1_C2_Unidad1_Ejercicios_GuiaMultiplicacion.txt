@@ -1,0 +1,106 @@
+📌 Ejercicio N°1
+Unidad: Unidad 1 – Operaciones
+Capítulo: Multiplicación
+Tema: Propiedad distributiva
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+Nancy quiere poner 24 botellas de agua en congeladores portátiles. En cada uno caben 5 botellas.
+a) ¿Cuántos congeladores necesita Nancy?
+
+✅ Respuesta correcta:
+24 × 5 = (20 + 4) × 5 = (20×5) + (4×5) = 100 + 20 = 120
+
+💡 Explicación esperada (feedback):
+Se aplica la propiedad distributiva para facilitar el cálculo multiplicando por partes más simples.
+
+---
+
+📌 Ejercicio N°2
+Unidad: Unidad 1 – Operaciones
+Capítulo: Multiplicación
+Tema: Propiedad conmutativa
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+Matías agrupa balones en 3 grupos de 2 y luego en 2 grupos de 3. ¿Cuántos balones hay en total?
+
+✅ Respuesta correcta:
+3×2 = 6 = 2×3
+
+💡 Explicación esperada (feedback):
+El orden de los factores no altera el producto. La propiedad conmutativa permite reorganizar los factores.
+
+---
+
+📌 Ejercicio N°3
+Unidad: Unidad 1 – Operaciones
+Capítulo: Multiplicación
+Tema: Propiedad asociativa
+Tipo: Resolución de problema
+
+🔹 Enunciado:
+Sara hizo 4 filas de 6 círculos en 5 páginas. ¿Cuántos círculos trazó?
+
+✅ Respuesta correcta:
+(4×6)×5 = 24×5 = 120
+
+💡 Explicación esperada (feedback):
+Se cambia la agrupación de los factores sin cambiar el producto. Ideal para cálculos organizados.
+
+---
+
+📌 Ejercicio N°4
+Unidad: Unidad 1 – Operaciones
+Capítulo: Multiplicación y duplicación
+Tema: Dobles y mitades
+Tipo: Aplicación contextual
+
+🔹 Enunciado:
+a) Pedro recorre 8 cuadras a la panadería. ¿Cuántas cuadras recorre ida y vuelta?
+
+✅ Respuesta correcta:
+8×2 = 16
+
+💡 Explicación esperada (feedback):
+Aplicación de cálculo mental al duplicar distancias en contextos reales.
+
+---
+
+📌 Ejercicio N°5
+Unidad: Unidad 1 – Operaciones
+Capítulo: Multiplicación por múltiplos de 10
+Tema: Cálculo mental
+Tipo: Regularidades y patrones
+
+🔹 Enunciado:
+Completa la secuencia:
+18×3 = 54  
+180×3 = ?  
+1 800×3 = ?  
+...
+
+✅ Respuesta correcta:
+Multiplicación por potencias de 10 desplaza los dígitos a la izquierda agregando ceros:  
+180×3 = 540, 1 800×3 = 5 400, etc.
+
+💡 Explicación esperada (feedback):
+Se espera que identifique patrones multiplicativos en múltiplos de 10 y aplique con rapidez.
+
+---
+
+📌 Ejercicio N°6
+Unidad: Unidad 1 – Operaciones
+Capítulo: Multiplicación
+Tema: Desafío matemático
+Tipo: Problema complejo
+
+🔹 Enunciado:
+Una fotocopiadora amplía un texto 10 veces. Luego se proyecta nuevamente 10 veces. Si las letras miden 2 mm, ¿cuánto medirán finalmente?
+
+✅ Respuesta correcta:
+2 mm × 10 × 10 = 200 mm
+
+💡 Explicación esperada (feedback):
+Aplicación de multiplicación sucesiva. Se espera comprensión del efecto de ampliaciones compuestas.
+

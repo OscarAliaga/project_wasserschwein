@@ -1,0 +1,35 @@
+📌 Exercise #1
+Unit: Unit 1 – Problems and numbers
+Chapter: Combined operations (use of parentheses, order of operations)
+Guide: No. 7 (June 15–19)
+Type: Contextualized problem
+
+🔹 Statement:
+Tomás has $1,500 and his mom gives him twice that amount. He spends $1,200 of his allowance and saves the rest. How much money does he have saved now?
+
+✅ Correct answer:
+Allowance: 2×1,500 = 3,000
+Spent: 1,200
+Savings: 1,500 + (3,000 - 1,200) = $3,300
+
+💡 Expected explanation:
+The student should correctly identify the operations involved and follow the hierarchy: first multiplication, then subtraction and addition.
+
+---
+
+📌 Exercise #2
+Unit: Unit 1 – Problems and numbers
+Chapter: Combined operations
+Guide: No. 7 (June 15–19)
+Type: Comparison and proportionality problem
+
+🔹 Statement:
+Cecilia packed 97 boxes of milk. Gustavo packed 49 boxes less. Then Cecilia packs three times what Gustavo had done initially. How many boxes did Cecilia pack in total?
+
+✅ Correct answer:
+Gustavo: 97 - 49 = 48
+Cecilia later: 48 × 3 = 144
+Total Cecilia: 97 + 144 = 241 boxes
+
+💡 Expected explanation:
+The student should organize the operations step by step, using subtraction, multiplication, and addition correctly.

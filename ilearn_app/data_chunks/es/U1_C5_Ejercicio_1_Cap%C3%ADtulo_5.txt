@@ -1,0 +1,14 @@
+Ejercicio_1_Capítulo_5
+
+Título: División Exacta con Resto
+
+En una competencia escolar, se entregaron 436 stickers para repartir equitativamente en grupos de 3 estudiantes.
+
+a) ¿Cuántos grupos completos se pueden formar?
+b) ¿Cuántos stickers sobran?
+c) ¿Cuántos stickers más se necesitan para completar otro grupo?
+
+Explica con tus palabras cómo resolviste el ejercicio y escribe la operación matemática correspondiente.
+
+🧠 Objetivo: Aplicar divisiones con restos usando el algoritmo.
+📚 Contenido: División por un dígito con cociente de 2 o 3 cifras.

@@ -1,0 +1,16 @@
+📌 Guide: Unit 2 - Area - Part 1
+Unit: Unit 2
+Chapter: Chapter 17 - Area (rectangles, triangles, parallelograms, irregular shapes)
+
+🔹 Worked Learning Objectives:
+- LO21: Design and construct rectangles given the perimeter or area
+- LO_l: Represent information in diagrams
+- LO_e: Verify rules and properties
+
+🔹 Activities:
+- Construction of rectangles with fixed perimeter
+- Comparison of resulting areas
+- Deduction of conclusions about the shape-area relationship
+
+💡 Expected Assessment:
+Ability to construct and analyze rectangles with equal perimeter, draw geometric conclusions, and apply area concepts.

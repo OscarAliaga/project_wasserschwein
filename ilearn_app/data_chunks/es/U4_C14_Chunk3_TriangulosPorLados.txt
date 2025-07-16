@@ -1,0 +1,12 @@
+📂 Clasificación de triángulos por sus lados
+
+Explicación:
+Los triángulos se clasifican según la longitud de sus lados:
+- Equilátero: tres lados iguales  
+- Isósceles: dos lados iguales  
+- Escaleno: todos los lados distintos
+
+Actividad:
+a) Dibuja un triángulo de cada tipo  
+b) Mide los lados con regla y confirma la clasificación  
+c) Observa estructuras en tu entorno que parezcan tener triángulos y clasifícalos

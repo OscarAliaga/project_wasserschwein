@@ -1,0 +1,11 @@
+Ejercicio_Razonado_Capítulo_9
+
+Problema:
+Una gráfica muestra que en abril se vendieron 20 libros, en mayo 25 y en junio 15. ¿Cuál fue el promedio mensual?
+
+Resolución paso a paso:
+1. Sumamos los libros: 20 + 25 + 15 = 60
+2. Dividimos entre 3 meses: 60 ÷ 3 = 20
+
+Respuesta final:
+El promedio mensual de libros vendidos es 20.

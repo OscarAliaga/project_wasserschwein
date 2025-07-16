@@ -1,0 +1,5 @@
+Ejercicio_1_Capítulo_7
+Observa la siguiente secuencia: 2, 5, 8, 11, …
+a) ¿Cuál es la regla del patrón?
+b) Escribe los siguientes tres números de la secuencia.
+c) ¿Cuál será el número en la posición 10?

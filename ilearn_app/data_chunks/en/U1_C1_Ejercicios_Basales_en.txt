@@ -1,0 +1,56 @@
+📌 Exercise #1
+Unit: Unit 1 - Basal Learnings
+Chapter: Place Value
+Topic: Expanded notation and digit value
+Type: Development
+
+🔹 Statement:
+Explain:
+a) Why is the value of 8 in 768,946 8,000?
+b) Why are the expanded forms of 87,560 and 87,650 different?
+
+✅ Correct Answer:
+a) Because the 8 is in the position of the thousands.
+b) Because the units and tens change, altering the expanded form.
+
+💡 Expected Explanation (feedback):
+The student should demonstrate an understanding of the positional value of each digit and how it affects the expanded form of the number.
+
+---
+
+📌 Exercise #2
+Unit: Unit 1 - Basal Learnings
+Chapter: Place Value
+Topic: Representation in table and numerical forms
+Type: Development
+
+🔹 Statement:
+Represent the number 45,678,001 in the place value table. Use this representation to write this number in:
+a) Words
+b) Expanded form
+
+✅ Correct Answer:
+a) Forty-five million six hundred seventy-eight thousand one.
+b) 40,000,000 + 5,000,000 + 600,000 + 70,000 + 8,000 + 0 + 0 + 0 + 1
+
+💡 Expected Explanation (feedback):
+The student is expected to correctly break down into each positional category and transform into verbal language.
+
+---
+
+📌 Exercise #3
+Unit: Unit 1 - Basal Learnings
+Chapter: Place Value
+Topic: Comparison and intermediate numbers
+Type: Problem-solving
+
+🔹 Statement:
+a) How many numbers are between 6,708,910 and 6,707,910?
+b) What number should go in ___ so that between 5,798,184 and ___ 15 numbers can be interspersed?
+
+✅ Correct Answer:
+a) 999 numbers
+b) The number should be 5,798,200
+
+💡 Expected Explanation (feedback):
+The student should reason with increments of 1 and count the intermediate values correctly. In case b, the student is expected to understand the concept of numerical sequence and distance between values.

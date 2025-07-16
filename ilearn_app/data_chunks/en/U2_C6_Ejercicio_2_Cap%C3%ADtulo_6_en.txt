@@ -1,0 +1,6 @@
+Exercise_2_Chapter_6
+Subtract the following decimal numbers:
+a) 5.78 - 2.13 =
+b) 6.9 - 3.4 =
+c) 10.05 - 4.8 =
+Check if the result makes sense based on the approximate value of each number.

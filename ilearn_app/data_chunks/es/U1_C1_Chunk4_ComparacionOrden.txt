@@ -1,0 +1,13 @@
+📂 Comparación y orden
+
+Explicación:
+Para comparar números grandes se parte desde el dígito de mayor valor posicional (millones). Si son iguales, se compara el siguiente.
+
+Ejemplo:
+¿Qué número es mayor?
+A: 729.854.320
+B: 715.342.180
+→ Se compara: 7 = 7 → 2 > 1 → A es mayor.
+
+Actividad (estudiante):
+Ordena los siguientes números de menor a mayor. Luego, representa el mayor en forma expandida.

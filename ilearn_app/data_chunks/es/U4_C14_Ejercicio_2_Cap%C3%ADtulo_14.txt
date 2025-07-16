@@ -1,0 +1,4 @@
+Ejercicio_2_Capítulo_14
+Realiza una rotación de 90° en el plano sobre un cuadrado.
+a) ¿Cambió la forma o el tamaño de la figura?
+b) ¿Qué transformación permite conservar la congruencia?

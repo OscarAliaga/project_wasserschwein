@@ -1,0 +1,73 @@
+📌 Exercise #1
+Unit: Unit 1 – Problems and Numbers
+Chapter: Division by 1 digit
+Topic: Exact division and with remainder
+Type: Problem solving
+
+🔹 Statement:
+Alicia has 255 chocolates, 128 candies, and 315 cookies. She wants to make bags to sell them.
+a) How many bags with 4 chocolates can she make? Are there any chocolates left over?
+b) How many bags with 6 candies can she make? Are there any candies left over?
+c) How many bags with 8 cookies can she make? Are there any cookies left over?
+
+✅ Correct answer:
+a) 255 ÷ 4 = 63 bags, 3 chocolates left over
+b) 128 ÷ 6 = 21 bags, 2 candies left over
+c) 315 ÷ 8 = 39 bags, 3 cookies left over
+
+💡 Expected explanation (feedback):
+The student should apply division with one-digit divisors, interpret the quotient and remainder, and verify using inverse multiplication.
+
+---
+
+📌 Exercise #2
+Unit: Unit 1 – Problems and Numbers
+Chapter: Division by 1 digit
+Topic: Equitable distribution with remainders
+Type: Problem solving
+
+🔹 Statement:
+A group of 135 young people wants to form 8 teams for an alliance competition. How many young people will each alliance have? How many are needed to complete the team with the fewest members?
+
+✅ Correct answer:
+135 ÷ 8 = 16 per team, 7 young people left over. 1 more is needed to complete the 9th team.
+
+💡 Expected explanation (feedback):
+The student is expected to relate the remainder to the need to add or balance groups to achieve equality.
+
+---
+
+📌 Exercise #3
+Unit: Unit 1 – Problems and Numbers
+Chapter: Division by 1 digit
+Topic: Division in different contexts
+Type: Problem solving
+
+🔹 Statement:
+A bakery delivers 120 cakes in one day.
+a) If they are packaged in trays of 3 units, how many trays are needed?
+b) If they are packaged in trays of 6 units, how many are required?
+
+✅ Correct answer:
+a) 120 ÷ 3 = 40 trays
+b) 120 ÷ 6 = 20 trays
+
+💡 Expected explanation (feedback):
+The student should identify how changing the grouping unit affects the quantity of containers required.
+
+---
+
+📌 Exercise #4
+Unit: Unit 1 – Problems and Numbers
+Chapter: Division by 1 digit
+Topic: Division with unknown in the dividend
+Type: Problem solving
+
+🔹 Statement:
+Esteban has a crate with 350 apples and a bag with a few more. If he wants to distribute his apples among 8 friends so that each receives an equal amount, how many apples should he add from his bag?
+
+✅ Correct answer:
+350 ÷ 8 = 43 with a remainder of 6. 2 apples are needed to reach 44 equal apples → he needs to add 2 apples.
+
+💡 Expected explanation (feedback):
+This problem requires interpreting the remainder as the basis to adjust the total to the nearest multiple. It requires inverse thinking.

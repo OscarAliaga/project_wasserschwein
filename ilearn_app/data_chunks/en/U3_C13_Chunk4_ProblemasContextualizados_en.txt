@@ -1,0 +1,10 @@
+📂 Contextualized Problems
+
+Situations:
+1. In one week, a child reads 3, 5, 2, 4, and 6 pages per day. What was their average daily reading?
+2. A family spends in 5 days: $3,000, $2,500, $4,000, $3,500, and $2,000. What was the average expenditure?
+
+Activity:
+a) Represent the data in a table
+b) Calculate the mean
+c) Comment on whether the average accurately reflects the situation or if there are significant variations.

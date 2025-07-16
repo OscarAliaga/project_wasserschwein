@@ -1,0 +1,14 @@
+Ejercicio_Razonado_Capítulo_2
+
+Problema:
+Una caja contiene 24 lápices. Si el colegio compra 36 cajas, ¿cuántos lápices tendrá en total?
+
+Resolución paso a paso:
+1. Multiplicamos 36 × 24.
+2. Usamos el algoritmo tradicional:
+   - 36 × 4 = 144
+   - 36 × 20 = 720
+   - Total: 144 + 720 = 864
+
+Respuesta final:
+El colegio tendrá 864 lápices.

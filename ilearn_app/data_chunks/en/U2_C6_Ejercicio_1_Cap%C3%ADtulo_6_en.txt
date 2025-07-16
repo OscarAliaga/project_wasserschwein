@@ -1,0 +1,6 @@
+Exercise_1_Chapter_6
+Add the following decimal numbers:
+a) 3.25 + 1.75 =
+b) 4.1 + 2.38 =
+c) 7.55 + 0.45 =
+Remember to align the decimal points and add digit by digit according to their positional value.

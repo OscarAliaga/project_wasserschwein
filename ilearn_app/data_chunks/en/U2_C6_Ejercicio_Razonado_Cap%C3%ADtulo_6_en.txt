@@ -1,0 +1,14 @@
+Reasoned Exercise_Chapter 6
+
+Problem:
+Camila had $3.75 and her mom gave her $2.40. How much money does she have now?
+
+Step-by-step solution:
+1. Add the decimals: $3.75 + $2.40
+2. Align the decimals:
+   3.75
++ 2.40
+= 6.15
+
+Final answer:
+Camila has a total of $6.15.

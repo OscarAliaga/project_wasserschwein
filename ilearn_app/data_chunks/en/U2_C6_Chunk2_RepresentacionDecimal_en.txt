@@ -1,0 +1,12 @@
+📂 Representation of decimal numbers
+
+Explanation:
+Decimal numbers represent values smaller than one or intermediate between natural numbers. They are expressed with a decimal point and can be represented with drawings, fractions, or on the number line.
+
+Example:
+- 0.1 = 1/10
+- 0.25 = 25/100
+
+Activity:
+a) Represent the following decimals on a number line: 0.2 – 0.5 – 0.8
+b) Write the corresponding decimal number for the fractions: 3/10, 1/4, 7/100

@@ -1,0 +1,4 @@
+Exercise_2_Chapter_11
+A bag contains 3 red balls, 2 green balls, and 5 blue balls.
+a) What is the probability of drawing a green ball?
+b) And what is the probability of drawing a ball that is not blue?

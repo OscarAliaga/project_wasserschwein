@@ -1,0 +1,5 @@
+Ejercicio_2_Capítulo_7
+Completa la secuencia aplicando la regla de formación:
+3, 6, __, 12, __, 18, __
+a) ¿Qué operación aplicaste para hallar cada término?
+b) Describe con tus palabras la regla del patrón.

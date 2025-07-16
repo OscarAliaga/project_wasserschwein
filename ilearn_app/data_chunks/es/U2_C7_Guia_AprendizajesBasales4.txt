@@ -1,0 +1,11 @@
+📌 Guía: Aprendizajes Basales 4
+Unidad: Unidad 2 – Patrones
+Capítulo: Patrones (reglas de formación, predicción)
+
+🔹 Enunciados y actividades:
+- Identificar y continuar secuencias numéricas
+- Encontrar reglas para patrones
+- Modelar situaciones usando regularidades
+
+💡 Evaluación esperada:
+Aplicación de lenguaje matemático para describir y predecir patrones en sucesiones numéricas.

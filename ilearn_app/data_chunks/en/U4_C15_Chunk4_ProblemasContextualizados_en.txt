@@ -1,0 +1,10 @@
+📂 Contextualized Problems
+
+Situations:
+1. A package measures 10 cm × 5 cm × 4 cm. What is its volume?
+2. A container is in the shape of a prism with a base of 8 m × 2 m and a height of 3 m. How many cubic meters of water can it hold?
+
+Activity:
+a) Solve the problems using the volume formula
+b) Compare volumes of different objects in the classroom
+c) Justify why calculating volume is useful in packaging, construction, and design

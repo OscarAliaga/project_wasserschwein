@@ -1,0 +1,16 @@
+📌 Guide: Unit 2 - Complementary Learnings 1
+Unit: Unit 2 - Patterns and Geometry
+Chapter: Geometric Patterns and Congruence
+
+🔹 Worked LOs:
+- LO14: Identify formation rules in patterns
+- LO16: Read and write coordinates on the Cartesian plane
+- LO18: Identify congruence through transformations (reflection, rotation, translation)
+
+🔹 Activities:
+- Determine coordinates of figures and reflections
+- Identify patterns on the Cartesian plane
+- Verification of congruence between figures
+
+💡 Expected Assessment:
+Ability to identify visual patterns, operate on the Cartesian plane, and justify congruence based on measurements and angles.

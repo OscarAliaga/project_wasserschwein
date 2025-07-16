@@ -1,0 +1,14 @@
+Ejercicio_2_Capítulo_5
+
+Título: División con Cero en el Cociente
+
+Una fábrica empacó 804 lápices en cajas, colocando 6 lápices por caja.
+
+a) ¿Cuántas cajas completas se llenaron?
+b) ¿Cuántos lápices sobran?
+c) Explica por qué en el cociente aparece un cero en la posición de las decenas.
+
+Realiza el cálculo paso a paso con el algoritmo de la división.
+
+🧠 Objetivo: Comprender el uso del cero en el cociente en divisiones por 1 dígito.
+📚 Contenido: División por un dígito con cero en el cociente.

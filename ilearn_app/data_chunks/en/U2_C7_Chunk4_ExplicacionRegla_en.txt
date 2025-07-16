@@ -1,0 +1,24 @@
+📂 Identification and explanation of the pattern rule
+
+Explanation:
+To discover the rule of a pattern, one observes how a quantity changes from one term to the next. The rule can be:
+- Additive (addition or subtraction)
+- Multiplicative (multiplication or division)
+
+Example:
+| Input | Output |
+|-------|--------|
+| 1     | 3      |
+| 2     | 6      |
+| 3     | 9      |
+Rule: multiply by 3
+
+Activity:
+a) Determine the rule for this table:
+| Input | Output |
+|-------|--------|
+| 1     | 5      |
+| 2     | 10     |
+| 3     | ___    |
+
+b) What would be the output for input = 6?

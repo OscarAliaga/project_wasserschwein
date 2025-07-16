@@ -1,0 +1,13 @@
+📂 Comparison and Ordering
+
+Explanation:
+When comparing large numbers, start from the digit with the highest positional value (millions). If they are equal, compare the next digit.
+
+Example:
+Which number is greater?
+A: 729,854,320
+B: 715,342,180
+→ Comparison: 7 = 7 → 2 > 1 → A is greater.
+
+Activity (student):
+Order the following numbers from least to greatest. Then, represent the greatest number in expanded form.

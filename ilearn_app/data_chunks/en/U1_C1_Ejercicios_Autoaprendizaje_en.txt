@@ -1,0 +1,49 @@
+📌 Exercise #1
+Unit: Unit 1 – Division
+Chapter: Division by 1 digit
+Topic: Distribution with quotient and remainder
+Type: Problem solving
+
+🔹 Statement:
+Three students are selling oranges to raise money. They received an order for 137 oranges that they must distribute equally. Each of them keeps them in their basket.
+How many oranges will each student have in their basket? Are there any oranges left over?
+
+✅ Correct answer:
+137 ÷ 3 = 45 with a remainder of 2
+
+💡 Expected explanation (feedback):
+The student is expected to correctly apply the division algorithm with a one-digit divisor, interpret the quotient as the number of oranges per basket, and the remainder as those that cannot be distributed equally.
+
+---
+
+📌 Exercise #2
+Unit: Unit 1 – Division
+Chapter: Division by 1 digit
+Topic: Application in school situations
+Type: Problem solving
+
+🔹 Statement:
+Teacher Ana has 184 pencils and will distribute them equally among 6 groups. How many pencils should she give to each group? Will there be any pencils left over?
+
+✅ Correct answer:
+184 ÷ 6 = 30 with a remainder of 4
+
+💡 Expected explanation (feedback):
+The student should identify the dividend (184), the divisor (6), calculate the quotient (30) and the remainder (4), and provide a complete contextualized response.
+
+---
+
+📌 Exercise #3
+Unit: Unit 1 – Division and Halves
+Chapter: Division by 1 digit
+Topic: Exact division into two parts
+Type: Development
+
+🔹 Statement:
+The teacher asked Marcela to paint half of the blocks in the blue square and the other half in green. Then she must perform the mathematical operation that calculates how many cubes will be blue.
+
+✅ Correct answer:
+Total quantity ÷ 2 = Quantity of blue cubes
+
+💡 Expected explanation (feedback):
+This exercise aims to reinforce the concept of dividing into two equal parts, promoting the understanding of exact division as equitable distribution.

@@ -1,0 +1,12 @@
+📂 Clasificación de triángulos por sus ángulos
+
+Explicación:
+Según sus ángulos internos, los triángulos pueden ser:
+- Acutángulo: tres ángulos agudos  
+- Rectángulo: un ángulo recto  
+- Obtusángulo: un ángulo obtuso
+
+Actividad:
+a) Dibuja ejemplos de cada tipo  
+b) Usa el transportador para verificar los ángulos  
+c) Clasifica los siguientes triángulos según sus medidas: 60°, 60°, 60° / 30°, 60°, 90° / 120°, 30°, 30°

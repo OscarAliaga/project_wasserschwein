@@ -1,0 +1,20 @@
+📂 Relación entre decimales y fracciones
+
+Explicación:
+Todo número decimal puede expresarse como fracción decimal. Por ejemplo:
+- 0,3 = 3/10
+- 0,75 = 75/100
+
+También puede simplificarse:
+- 0,5 = 5/10 = 1/2
+
+Actividad:
+Convierte a fracción:
+a) 0,6 → __  
+b) 0,25 → __  
+c) 0,125 → __  
+
+Convierte a decimal:
+a) 1/10 → __  
+b) 3/4 → __  
+c) 5/1000 → __

@@ -1,0 +1,5 @@
+Exercise_1_Chapter_15
+Solve the following equation:
+x + 8 = 21
+a) What number does x represent?
+b) How do you verify that the result is correct?

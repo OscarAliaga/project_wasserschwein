@@ -1,0 +1,17 @@
+📂 Estrategias de multiplicación
+
+Explicación:
+Existen diversas estrategias para multiplicar, como:
+- Descomposición aditiva: 34 × 12 = (30 + 4) × 12 = 30×12 + 4×12
+- Uso del área: Representar gráficamente rectángulos con largo y ancho según los factores
+- Uso de propiedades conmutativa y distributiva
+
+Ejemplo trabajado:
+27 × 14 = (20 + 7) × 14 = (20 × 14) + (7 × 14) = 280 + 98 = 378
+
+Actividad sugerida:
+Aplica dos estrategias diferentes para resolver:
+a) 23 × 15
+b) 46 × 12
+
+Discute cuál fue más sencilla y por qué.

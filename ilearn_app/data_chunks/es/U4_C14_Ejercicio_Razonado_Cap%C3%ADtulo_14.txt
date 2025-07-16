@@ -1,0 +1,11 @@
+Ejercicio_Razonado_Capítulo_14
+
+Problema:
+¿Una figura rotada 180° mantiene la congruencia?
+
+Resolución paso a paso:
+1. La rotación no cambia el tamaño ni la forma.
+2. Solo cambia la orientación.
+
+Respuesta final:
+Sí, mantiene la congruencia.

@@ -1,0 +1,17 @@
+📂 Multiplicación por decenas
+
+Explicación:
+Multiplicar por decenas consiste en aplicar la propiedad distributiva de la multiplicación. Por ejemplo:
+23 × 30 = 23 × (3 × 10) = (23 × 3) × 10 = 69 × 10 = 690
+
+Ejemplo trabajado:
+¿Cuánto es 48 × 20?
+→ 48 × 20 = (48 × 2) × 10 = 96 × 10 = 960
+
+Actividad sugerida:
+Calcula mentalmente los siguientes productos:
+a) 15 × 40
+b) 32 × 50
+c) 71 × 30
+
+Compara tus resultados con estimaciones redondeando los factores.

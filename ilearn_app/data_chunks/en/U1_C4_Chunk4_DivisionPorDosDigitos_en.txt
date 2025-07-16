@@ -1,0 +1,14 @@
+📂 Division by two digits
+
+Explanation:
+Dividing by two digits requires a good estimation of the partial quotient and verification through inverse multiplication.
+
+Example:
+754 ÷ 24 ≈ approximated by 24 × 30 = 720 → quotient 30
+
+Activity:
+Calculate:
+a) 832 ÷ 26
+b) 1,104 ÷ 48
+
+Use estimated multiplications to find the quotient.

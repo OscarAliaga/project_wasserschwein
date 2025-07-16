@@ -1,0 +1,13 @@
+📂 Identification of Parallel Lines
+
+Explanation:
+Two lines are parallel if they maintain the same distance between them and never intersect, even if extended.
+
+Examples:
+- Opposite sides of a rectangle
+- Train tracks
+
+Activity:
+a) Draw a rectangle and mark the parallel sides
+b) Observe your classroom and look for parallel structures (e.g. edges of the blackboard)
+c) Use a ruler to verify if two lines are parallel

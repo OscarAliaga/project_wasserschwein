@@ -1,0 +1,4 @@
+Ejercicio_2_Capítulo_13
+En una encuesta, 4 personas dijeron caminar 2 km al día, 3 dijeron caminar 4 km y 3 personas caminaron 6 km.
+a) ¿Cuál es el promedio de kilómetros caminados por persona?
+b) ¿Qué puedes concluir con ese resultado?

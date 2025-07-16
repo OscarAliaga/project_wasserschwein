@@ -1,0 +1,105 @@
+📌 Exercise #1
+Unit: Unit 1 – Operations
+Chapter: Multiplication
+Topic: Distributive property
+Type: Problem solving
+
+🔹 Statement:
+Nancy wants to put 24 water bottles in portable coolers. Each cooler holds 5 bottles.
+a) How many coolers does Nancy need?
+
+✅ Correct answer:
+24 × 5 = (20 + 4) × 5 = (20×5) + (4×5) = 100 + 20 = 120
+
+💡 Expected explanation (feedback):
+The distributive property is applied to simplify the calculation by multiplying simpler parts.
+
+---
+
+📌 Exercise #2
+Unit: Unit 1 – Operations
+Chapter: Multiplication
+Topic: Commutative property
+Type: Problem solving
+
+🔹 Statement:
+Matías groups balls into 3 groups of 2 and then into 2 groups of 3. How many balls are there in total?
+
+✅ Correct answer:
+3×2 = 6 = 2×3
+
+💡 Expected explanation (feedback):
+The order of factors does not affect the product. The commutative property allows for rearranging factors.
+
+---
+
+📌 Exercise #3
+Unit: Unit 1 – Operations
+Chapter: Multiplication
+Topic: Associative property
+Type: Problem solving
+
+🔹 Statement:
+Sara made 4 rows of 6 circles on 5 pages. How many circles did she draw?
+
+✅ Correct answer:
+(4×6)×5 = 24×5 = 120
+
+💡 Expected explanation (feedback):
+Changing the grouping of factors without changing the product. Ideal for organized calculations.
+
+---
+
+📌 Exercise #4
+Unit: Unit 1 – Operations
+Chapter: Multiplication and doubling
+Topic: Doubles and halves
+Type: Contextual application
+
+🔹 Statement:
+a) Pedro walks 8 blocks to the bakery. How many blocks does he walk round trip?
+
+✅ Correct answer:
+8×2 = 16
+
+💡 Expected explanation (feedback):
+Application of mental calculation by doubling distances in real contexts.
+
+---
+
+📌 Exercise #5
+Unit: Unit 1 – Operations
+Chapter: Multiplication by multiples of 10
+Topic: Mental calculation
+Type: Regularities and patterns
+
+🔹 Statement:
+Complete the sequence:
+18×3 = 54  
+180×3 = ?  
+1 800×3 = ?  
+...
+
+✅ Correct answer:
+Multiplying by powers of 10 shifts the digits to the left by adding zeros:  
+180×3 = 540, 1 800×3 = 5 400, etc.
+
+💡 Expected explanation (feedback):
+Expected to identify multiplicative patterns in multiples of 10 and apply quickly.
+
+---
+
+📌 Exercise #6
+Unit: Unit 1 – Operations
+Chapter: Multiplication
+Topic: Mathematical challenge
+Type: Complex problem
+
+🔹 Statement:
+A photocopier enlarges a text 10 times. It is then projected again 10 times. If the letters measure 2 mm, how much will they measure finally?
+
+✅ Correct answer:
+2 mm × 10 × 10 = 200 mm
+
+💡 Expected explanation (feedback):
+Application of successive multiplication. Understanding the effect of compound enlargements is expected.

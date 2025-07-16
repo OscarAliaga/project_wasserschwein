@@ -1,0 +1,13 @@
+📂 Adición y sustracción de números decimales
+
+Explicación:
+Para sumar o restar decimales, se alinean los números por la coma decimal. Si es necesario, se completan ceros para igualar la cantidad de cifras decimales.
+
+Ejemplo:
+1,25 + 0,8 → se escribe como 1,25 + 0,80 = 2,05
+
+Actividad:
+a) 2,3 + 1,25 =  
+b) 3,7 - 2,45 =  
+c) 0,95 + 0,6 =  
+d) 1,25 - 0,75 =

@@ -1,0 +1,11 @@
+Exercise_Reasoned_Chapter_12
+
+Problem:
+Solve: (6 + 4) × 3
+
+Step-by-step solution:
+1. Operation within the parentheses: 6 + 4 = 10
+2. Multiply: 10 × 3 = 30
+
+Final answer:
+The result is 30.

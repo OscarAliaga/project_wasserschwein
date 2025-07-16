@@ -1,0 +1,29 @@
+📘 Chunk 2: Ejercicios desde el Texto del Estudiante (Capítulo 1, Unidad 1)
+Objetivo: Aplicar el conocimiento del sistema de numeración decimal en tareas de lectura, descomposición y comparación de números hasta 9 cifras.
+
+1. Actividad 1 – ¿Qué número es?:
+- Representa con cifras: “Tres millones doscientos mil cuarenta y seis”.
+- ¿Cuántos dígitos tiene ese número?
+- ¿Qué cifra está en el lugar de los millones de unidades?
+
+2. Actividad 2 – Descomposición:
+- Escribe la descomposición aditiva de: 4.208.015.
+- Luego, escribe un número distinto con la misma cantidad de dígitos y descompónlo de forma canónica.
+
+3. Actividad 3 – Juego de números escondidos:
+- ¿Qué número se forma si en 6.500.000 cambias el 5 por un 9?
+- ¿Y si eliminas el dígito de las decenas de mil?
+
+4. Actividad 4 – Comparación con tabla de valor posicional:
+- Completa la tabla con el número 7.892.041.
+  Millones | Cientos mil | Diez mil | Mil | Cientos | Decenas | Unidades
+  ________ | ___________ | ________ | ____ | _______ | _______ | ________
+- Luego indica:
+  a) ¿Cuál es la cifra mayor?
+  b) ¿Qué representa el 8 en ese número?
+
+5. Actividad de desafío – ¿Quién tiene el número más grande?:
+- Sofía: 8.765.123
+- Juan: 8.756.321
+- Matías: 8.765.321
+¿Quién tiene el número mayor? ¿Cómo lo sabes?

@@ -1,0 +1,5 @@
+Ejercicio_1_Capítulo_17
+Calcula el área de las siguientes figuras:
+a) Rectángulo de 8 cm × 5 cm
+b) Triángulo de base 10 cm y altura 6 cm
+c) Paralelogramo de base 12 cm y altura 4 cm

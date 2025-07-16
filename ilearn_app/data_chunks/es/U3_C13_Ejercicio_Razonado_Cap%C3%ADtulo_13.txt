@@ -1,0 +1,11 @@
+Ejercicio_Razonado_Capítulo_13
+
+Problema:
+Notas de Ana: 6,0 – 6,2 – 5,8. ¿Cuál es su promedio?
+
+Resolución paso a paso:
+1. Sumamos: 6,0 + 6,2 + 5,8 = 18,0
+2. Dividimos por 3: 18 ÷ 3 = 6,0
+
+Respuesta final:
+El promedio de Ana es 6,0.

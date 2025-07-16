@@ -1,0 +1,11 @@
+Ejercicio_Razonado_Capítulo_8
+
+Problema:
+¿Son equivalentes 3/4 y 6/8?
+
+Resolución paso a paso:
+1. Multiplicamos 3/4 × 2/2 = 6/8
+2. Como se obtiene el mismo valor, son equivalentes.
+
+Respuesta final:
+Sí, 3/4 y 6/8 son fracciones equivalentes.

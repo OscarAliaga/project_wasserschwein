@@ -1,0 +1,16 @@
+📌 Guide: Unit 2 - Basal Learnings 4
+Unit: Unit 2 - Congruence and Geometry
+Chapter: Translation and congruence of triangles
+
+🔹 Worked Learning Objectives (OA):
+- OA18: Understand congruence through translation, reflection, and rotation
+- OA_f: Communicate mathematical reasoning
+- OA_e: Verify geometric properties
+
+🔹 Activities:
+- Translation of triangle on grid
+- Comparison of side lengths and angles before and after transformation
+- Argumentation on congruence
+
+💡 Expected Assessment:
+Precise application of translations, recognition of invariance of congruent figures, and ability to explain the concept with examples.

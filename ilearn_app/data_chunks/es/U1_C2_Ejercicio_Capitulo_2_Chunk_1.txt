@@ -1,0 +1,24 @@
+Capítulo 2 – Chunk 1 de 2: Multiplicación por 2 dígitos (estrategias y algoritmo)
+
+✅ Objetivo: Comprender y aplicar estrategias para multiplicar números de dos dígitos.
+
+🧠 Actividad 1: Uso de propiedades para facilitar el cálculo
+1a) Multiplica 12 × 25 utilizando la propiedad asociativa.
+1b) Calcula 18 × 50 dividiendo por 2 un factor y multiplicando por 2 el otro.
+1c) Usa la propiedad distributiva para resolver 27 × 31.
+   → Descomponer como (20 + 7) × 31 y aplicar distributiva.
+
+🛠️ Actividad 2: Estrategias con múltiplos de 10
+2a) Calcula 35 × 40 y explica tu procedimiento.
+2b) ¿Qué patrón observas al multiplicar por 10, 20, 30…?
+
+🧩 Actividad 3: Multiplicación en contexto
+Situación: Una caja tiene 36 lápices. ¿Cuánto costarán 36 cajas si cada una cuesta $85?
+→ Expresa como una multiplicación, resuélvela y argumenta tu resultado.
+
+✍️ Reforzamos:
+• Aplicar propiedad distributiva
+• Multiplicación mental con múltiplos de 10
+• Identificar errores comunes (por ejemplo, errores en sumas parciales)
+
+📘 Recomendación al docente: Fomentar el uso de estimación antes de calcular para anticipar si el resultado es razonable.

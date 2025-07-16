@@ -1,0 +1,18 @@
+📂 Length Units
+
+Explanation:
+The basic length units in the metric system are:
+- 1 meter = 100 centimeters
+- 1 centimeter = 10 millimeters
+- 1 kilometer = 1,000 meters
+
+Multiples and submultiples allow measuring from small objects (like a paper clip) to long distances (like a road).
+
+Example:
+Convert 4.5 meters to centimeters → 4.5 × 100 = 450 cm
+
+Suggested Activity:
+Convert the following measurements to the indicated unit:
+a) 2.4 m = ___ cm
+b) 850 cm = ___ m
+c) 0.3 km = ___ m

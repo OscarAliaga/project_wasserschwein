@@ -1,0 +1,16 @@
+📂 Secuencias numéricas crecientes y decrecientes
+
+Explicación:
+Un patrón numérico es una secuencia de números organizada según una regla. Puede ser:
+- Creciente: 2, 4, 6, 8... (suma 2)
+- Decreciente: 100, 90, 80... (resta 10)
+
+Ejemplo:
+Secuencia: 5, 10, 15, 20  
+Regla: sumar 5
+
+Actividad:
+a) Completa las secuencias:
+1) 3, 6, 9, ___, ___  
+2) 100, 90, ___, ___  
+b) Escribe la regla de formación de cada secuencia

@@ -1,0 +1,15 @@
+📂 Interpretation of the average in real contexts
+
+Explanation:
+The average allows obtaining a representative value, but it does not show all the characteristics of the set (it does not indicate variability).
+
+Example:
+A student has these grades: 6, 4, 4  
+Mean = 4.67  
+→ Although they have a high grade, the average does not exceed 5.
+
+Activity:
+a) Analyze this situation:
+Three friends run 100 m in 12 s, 14 s, and 16 s. What is their average? How fair is it to say "they all run in 14 s"?
+
+b) Create a situation with 5 data points and calculate their mean.

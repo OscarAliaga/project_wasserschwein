@@ -1,0 +1,20 @@
+📂 Gráficos de barras y de líneas
+
+Explicación:
+- Los gráficos de barras muestran comparaciones entre categorías.  
+- Los gráficos de líneas representan datos que cambian en el tiempo (tendencias).
+
+Ejemplo:
+Gráfico de barras con cantidad de libros leídos por día  
+Gráfico de líneas con temperatura diaria durante una semana
+
+Actividad:
+a) Construye un gráfico de barras con la tabla:
+| Día      | Libros |
+|----------|--------|
+| Lunes    | 2      |
+| Martes   | 3      |
+| Miércoles| 5      |
+
+b) Dibuja un gráfico de líneas con la temperatura (°C) durante 5 días:
+Lun: 15 – Mar: 17 – Mié: 18 – Jue: 16 – Vie: 19

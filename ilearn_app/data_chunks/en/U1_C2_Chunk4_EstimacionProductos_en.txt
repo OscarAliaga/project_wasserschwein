@@ -1,0 +1,19 @@
+📂 Product Estimation
+
+Explanation:
+Estimating the result of a multiplication helps to verify if a result is reasonable.
+
+Techniques:
+- Round one or both factors to the nearest ten
+- Multiply the rounded values mentally
+
+Example:
+68 × 42 → Estimation: 70 × 40 = 2800
+
+Activity:
+Estimate the result of the following products before calculating accurately:
+a) 29 × 61
+b) 87 × 24
+c) 53 × 19
+
+Then compare with the exact result.

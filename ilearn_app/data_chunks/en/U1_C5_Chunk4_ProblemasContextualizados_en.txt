@@ -1,0 +1,9 @@
+📂 Contextualized Problems
+
+Situations:
+1. 702 stickers are divided into 6 envelopes. How many stickers go in each envelope?
+2. There are 308 chairs for 4 classrooms. How many chairs per classroom?
+3. A truck transports 506 boxes in 2 equal trips. How many boxes per trip?
+
+Activity:
+Solve and explain in which step the zero appears in the quotient. Use the algorithm and verify your results with multiplication.

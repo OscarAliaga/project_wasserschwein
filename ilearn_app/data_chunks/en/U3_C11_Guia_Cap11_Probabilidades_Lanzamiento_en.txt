@@ -1,0 +1,11 @@
+📌 Guide: Foundational Learnings 1 - Probability with Dice
+Unit: Unit 4
+Chapter: Chapter 11 - Probabilities (possible, impossible events)
+
+🔹 Contents:
+- Comparison of probabilities of events without calculation
+- Observation of relative frequencies in dice rolls
+- Dice games to evaluate the lowest probability of sum
+
+💡 Expected Evaluation:
+Students compare events with reasoned judgment, verify their assumptions through experimentation, and record results for reflection.

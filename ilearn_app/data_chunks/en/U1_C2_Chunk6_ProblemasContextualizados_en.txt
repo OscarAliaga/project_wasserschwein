@@ -1,0 +1,12 @@
+📂 Contextualized Problems
+
+Situations:
+1. A box has 28 pencils. How many pencils are there in 36 boxes?
+2. A bus transports 47 students per trip. How many students does it transport in 15 trips?
+3. Each folder costs $1450. How much will 24 folders cost?
+
+Activity:
+Solve the problems using multiplication. Estimate the result first and then verify using the algorithm.
+
+Reflection:
+In what situations in your daily life do you use multiplication to solve problems?

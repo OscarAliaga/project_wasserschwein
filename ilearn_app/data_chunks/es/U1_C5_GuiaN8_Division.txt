@@ -1,0 +1,14 @@
+📌 Ejercicio N°1
+Unidad: Unidad 1 – Problemas y números
+Capítulo: División por 1 dígito, cociente con ceros
+Guía: Nº8 (13–17 julio)
+Tipo: Resolución simbólica y contextual
+
+🔹 Enunciado:
+La profesora Ana tiene 184 lápices que debe repartir equitativamente entre 6 grupos. ¿Cuántos lápices recibe cada grupo? ¿Quedarán lápices sin repartir?
+
+✅ Respuesta correcta:
+184 ÷ 6 = 30 con resto 4
+
+💡 Explicación esperada:
+El estudiante debe aplicar la división entera con interpretación del cociente y resto, vinculando al contexto real.

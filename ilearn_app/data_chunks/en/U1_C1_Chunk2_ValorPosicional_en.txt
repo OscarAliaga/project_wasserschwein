@@ -1,0 +1,21 @@
+📂 Place Value
+
+Explanation:
+Each digit in a number has a value depending on its position. For example, in 72,485,190:
+- The 7 is in the tens of millions place → it is worth 70,000,000
+- The 2 is in the millions place → it is worth 2,000,000
+- The 4 is in the hundreds of thousands place → it is worth 400,000
+- And so on...
+
+Worked Example:
+Write the place value of the number: 58,903,621
+- 50 million
+- 8 million
+- 900 thousand
+- 3 thousand
+- 600
+- 20
+- 1
+
+Suggested Activity (for students):
+Read the numbers aloud. Then, write them in expanded form. Highlight with color the digit that represents the most value.

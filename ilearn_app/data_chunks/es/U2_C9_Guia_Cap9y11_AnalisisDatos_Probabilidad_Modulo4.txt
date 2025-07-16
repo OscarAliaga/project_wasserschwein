@@ -1,0 +1,14 @@
+📌 Cuaderno de trabajo: Módulo 4 – Datos y Probabilidades
+Unidad: Unidad 2
+Capítulos:
+- Capítulo 9 – Análisis de datos (tablas, gráficos)
+- Capítulo 11 – Probabilidades (eventos posibles, imposibles)
+
+🔹 Contenidos:
+- Recolección de datos y tablas de frecuencia
+- Construcción de gráficos de barras y líneas
+- Cálculo del promedio aritmético
+- Reconocimiento de eventos seguros, posibles e imposibles
+
+💡 Evaluación esperada:
+El estudiante aplica la lectura e interpretación de datos y reconoce la probabilidad en contextos experimentales.

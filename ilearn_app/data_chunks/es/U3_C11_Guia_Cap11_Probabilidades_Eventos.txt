@@ -1,0 +1,11 @@
+📌 Guía: Aprendizajes Basales 2 – Posibilidad de ocurrencia
+Unidad: Unidad 4
+Capítulo: Capítulo 11 – Probabilidades (eventos posibles, imposibles)
+
+🔹 Contenidos:
+- Clasificación de eventos según su posibilidad: seguro, posible, poco posible, imposible
+- Justificación verbal y escrita de probabilidades simples en juegos de azar
+- Estrategias para evaluar la probabilidad relativa de ganar
+
+💡 Evaluación esperada:
+Demuestran comprensión verbal y escrita de eventos posibles, predicen resultados con lenguaje cotidiano y justifican sus decisiones.

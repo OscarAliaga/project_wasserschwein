@@ -1,0 +1,10 @@
+📂 Contextualized Problems
+
+Situations:
+1. The roof of a house forms a triangle. What type of triangle is it based on its sides? And based on its angles?
+2. A signaling triangle has a right angle. How is it classified?
+
+Activity:
+a) Represent real structures that include triangles (bridges, signs, structures)
+b) Classify each drawn triangle based on its sides and angles
+c) Explain why this classification can be useful in architecture or structural design

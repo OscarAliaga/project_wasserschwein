@@ -1,0 +1,12 @@
+📘 Unit 1 - Chapter 5: Division by 1 digit with zeros in the quotient
+Thematic Axis: Numbers and Operations
+
+Learning Objectives:
+- LO 4: Demonstrate understanding of the division of natural numbers:
+  • Applying calculation strategies
+  • Using estimations
+  • Using the traditional algorithm
+  • Understanding the importance of zero in the quotient
+
+Chapter Overview:
+This chapter focuses on the calculation of divisions where the result includes zeros in the quotient. The objective is for students to understand how these zeros affect the result and that they should not be omitted when using the standard algorithm. Common errors are addressed, and strategies are proposed to detect and correct them.

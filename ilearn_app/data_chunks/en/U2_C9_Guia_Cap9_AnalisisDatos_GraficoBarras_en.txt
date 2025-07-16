@@ -1,0 +1,11 @@
+📌 Guide: Data Analysis and Bar Graphs
+Unit: Unit 2
+Chapter: Chapter 9 - Data Analysis (tables, graphs, reading, and interpretation)
+
+🔹 Contents:
+- Reading and interpretation of frequency tables
+- Data representation in bar graphs
+- Frequency questions about simple surveys
+
+💡 Expected Assessment:
+The student identifies, organizes, and interprets data from simple frequency tables and constructs bar graphs.
