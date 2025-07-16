@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:provider/provider.dart';
-import '../models/users.dart';
 import '../providers/user_provider.dart';
 import '../widgets/role_aware_scaffold.dart';
 import 'package:flutter/services.dart' show rootBundle;

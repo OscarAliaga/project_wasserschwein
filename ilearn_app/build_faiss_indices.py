@@ -1,8 +1,9 @@
 import os
+
 from langchain.document_loaders import TextLoader
-from langchain.vectorstores import FAISS
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.vectorstores import FAISS
 from tqdm import tqdm
 
 # 📂 Ruta a la carpeta con los .txt en español
@@ -15,10 +16,7 @@ output_path = "/Users/oaliaga/Documents/Difference_Maker_2025/Material_nuevo/pro
 embeddings = OpenAIEmbeddings()
 
 # ✂️ Configurar cómo dividir los textos
-text_splitter = RecursiveCharacterTextSplitter(
-    chunk_size=500,
-    chunk_overlap=50
-)
+text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=50)
 
 # 📦 Cargar, dividir y procesar los documentos
 all_docs = []
