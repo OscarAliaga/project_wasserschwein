@@ -1,0 +1,63 @@
+# ==================================
+# ⚙️ FLUTTER
+# ==================================
+.dart_tool/
+.packages
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+macos/Pods/
+macos/Runner.xcworkspace/
+.android/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+*.iml
+*.lock
+*.log
+
+# ==================================
+# 💻 MULTIPLATAFORMA FLUTTER
+# ==================================
+.idea/
+.vscode/
+*.swp
+
+# ==================================
+# 🔒 SECRETOS Y CONFIGURACIONES LOCALES
+# ==================================
+*.env
+firebase.json
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+macos/Runner/GoogleService-Info.plist
+
+# ==================================
+# 🖼️ IMÁGENES GENERADAS Y ARCHIVOS TEMPORALES
+# ==================================
+*.png
+*.jpg
+*.jpeg
+*.ico
+*.pdf
+
+# ==================================
+# 🧪 PRUEBAS Y PYTHON BACKEND
+# ==================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.save
+*.ipynb_checkpoints
+
+# ==================================
+# 🖥️ MACOS / SISTEMA OPERATIVO
+# ==================================
+.DS_Store
+
+.env

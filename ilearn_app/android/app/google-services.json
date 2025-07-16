@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906752927081",
+    "project_id": "proyecto-capibara",
+    "storage_bucket": "proyecto-capibara.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906752927081:android:9950c4a546e2061f4d49f8",
+        "android_client_info": {
+          "package_name": "com.example.ilearn_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhWjfHyu94C1T4WQPmNaG9B9q7HduMy8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
