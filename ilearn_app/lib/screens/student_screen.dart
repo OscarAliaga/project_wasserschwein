@@ -7,6 +7,8 @@ import '../providers/user_provider.dart';
 import '../widgets/role_aware_scaffold.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import '../gen_l10n/app_localizations.dart';
+import 'package:flutter/foundation.dart' show kIsWeb;
+
 
 class StudentScreen extends StatefulWidget {
   final String curso;
@@ -82,7 +84,7 @@ class _StudentScreenState extends State<StudentScreen> {
     });
 
     try {
-      final uri = Uri.parse('http://10.0.2.2:8000/ask');
+      final uri = Uri.parse(kIsWeb ? 'http://localhost:8000/ask' : 'http://10.0.2.2:8000/ask');
       final result = await http.post(
         uri,
         headers: {'Content-Type': 'application/json; charset=utf-8'},
